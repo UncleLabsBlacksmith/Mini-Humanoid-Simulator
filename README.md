@@ -6,6 +6,8 @@
 
 ![Uncle Labs Simulator — Physics Lab](Astra-Mini-Physics.png)
 
+![ตัวอย่างการเคลื่อนไหวหุ่นยนต์ใน Uncle Labs Simulator](mini-humanoid-sim.gif)
+
 ## ความสามารถ
 
 - **Motion Studio** — ปรับข้อต่อ สร้าง keyframes เล่นวนซ้ำ และนำเข้า/ส่งออก JSON
