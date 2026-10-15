@@ -2,6 +2,8 @@
 
 เว็บจำลอง Mini Humanoid สำหรับออกแบบท่าการเคลื่อนไหวและทดสอบการเดินด้วยฟิสิกส์ พัฒนาด้วย **Flask + Three.js + Rapier** รองรับหุ่นยนต์ ASTRA V1 และ V2 ที่ใช้เซอร์โว DS3225MG
 
+[GitHub Repository](https://github.com/UncleLabsBlacksmith/Mini-Humanoid-Simulator) · [ดาวน์โหลด ZIP](https://github.com/UncleLabsBlacksmith/Mini-Humanoid-Simulator/archive/refs/heads/main.zip)
+
 ![Uncle Labs Simulator](uncle-labs-name-preview.png)
 
 ## ความสามารถ
@@ -39,6 +41,19 @@
 - Node.js สำหรับงานพัฒนาและชุดทดสอบเท่านั้น ไม่จำเป็นสำหรับเปิดเว็บ
 
 ไฟล์ Three.js และ Rapier อยู่ใน `static/vendor/` แล้ว จึงไม่ต้องโหลดจาก CDN ขณะใช้งาน ส่วนการติดตั้ง dependency ครั้งแรกยังต้องเข้าถึงแหล่งแพ็กเกจ
+
+### ดาวน์โหลดโปรเจกต์
+
+หากติดตั้ง Git แล้ว ให้ดาวน์โหลด repository และเข้าโฟลเดอร์โปรเจกต์ด้วยคำสั่ง:
+
+```bash
+git clone https://github.com/UncleLabsBlacksmith/Mini-Humanoid-Simulator.git
+cd Mini-Humanoid-Simulator
+```
+
+หากไม่ใช้ Git ให้ [ดาวน์โหลด ZIP](https://github.com/UncleLabsBlacksmith/Mini-Humanoid-Simulator/archive/refs/heads/main.zip) แล้วแตกไฟล์ จากนั้นเปิด Terminal ในโฟลเดอร์ที่มี `app.py` และ `requirements.txt`
+
+เมื่อติดตั้งหรือดาวน์โหลดเสร็จ ให้ทำตามขั้นตอนของระบบปฏิบัติการด้านล่าง
 
 ### Windows / PowerShell
 
@@ -250,4 +265,10 @@ API ของโมเดล/โปรแกรมรับ `?model=astra-v1` �
 - [Three.js](https://threejs.org/) — MIT; ดู [license ที่แนบ](static/vendor/LICENSE)
 - [Rapier](https://rapier.rs/) — Apache-2.0; ดู [license ที่แนบ](static/vendor/RAPIER-LICENSE)
 
-โค้ด UVC-inspired ในโครงการเขียนขึ้นใหม่จากแนวคิด ไม่ใช่โค้ดต้นฉบับทั้งระบบของ Dr. Guero ปัจจุบันยังไม่มีไฟล์ `LICENSE` สำหรับโค้ดของโครงการเอง ส่วน license ของไลบรารีภายนอกอยู่ตามลิงก์ด้านบน
+โค้ด UVC-inspired ในโครงการเขียนขึ้นใหม่จากแนวคิด ไม่ใช่โค้ดต้นฉบับทั้งระบบของ Dr. Guero
+
+## License
+
+โครงการเผยแพร่ภายใต้ [MIT License](LICENSE) — Copyright (c) 2026 Uncle Labs
+
+ไลบรารีและทรัพยากรของบุคคลภายนอกยังใช้สัญญาอนุญาตของเจ้าของแต่ละรายการ ตามไฟล์และลิงก์อ้างอิงด้านบน
