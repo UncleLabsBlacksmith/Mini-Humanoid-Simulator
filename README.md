@@ -4,7 +4,7 @@
 
 [GitHub Repository](https://github.com/UncleLabsBlacksmith/Mini-Humanoid-Simulator) · [ดาวน์โหลด ZIP](https://github.com/UncleLabsBlacksmith/Mini-Humanoid-Simulator/archive/refs/heads/main.zip)
 
-![Uncle Labs Simulator](uncle-labs-name-preview.png)
+![Uncle Labs Simulator — Physics Lab](Astra-Mini-Physics.png)
 
 ## ความสามารถ
 
