@@ -1,0 +1,36 @@
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import * as THREE from '../static/vendor/three.module.js';
+import {UpperBodyVerticalController} from '../static/uvc.mjs';
+const robot=JSON.parse(fs.readFileSync(new URL('../static/robot.json',import.meta.url),'utf8'));
+const base=Object.fromEntries(robot.joints.map(j=>[j.name,0]));
+const settings={uvcPitch:3,uvcRoll:1,uvcLimit:8};
+const pitch=new THREE.Quaternion().setFromAxisAngle(new THREE.Vector3(1,0,0),.1);
+const control=new UpperBodyVerticalController(robot.joints);
+assert.equal(Object.keys(control.offsets).length,4);
+const target=control.update(base,pitch,{L:10,R:0},settings,1/240);
+assert.ok(target.L_HipPitch<0,'Forward lean must decrease support hip pitch');
+assert.equal(target.R_HipPitch,0,'Unloaded leg must not integrate lean');
+const remembered={...control.offsets};
+control.update(base,pitch,{L:0,R:0},settings,1/240);
+assert.deepEqual(control.offsets,remembered,'No integration without ground force');
+assert.equal(control.state.active,false);
+assert.deepEqual(control.update(base,pitch,{L:10,R:0},settings,1/240,false),base,'Disabled controller must not modify requested targets');
+const rolled=new THREE.Quaternion().setFromAxisAngle(new THREE.Vector3(0,1,0),.1);
+const rollControl=new UpperBodyVerticalController(robot.joints);
+assert.ok(rollControl.update(base,rolled,{L:0,R:10},settings,.01).R_Hip_Roll<0);
+const yawed=new THREE.Quaternion().setFromAxisAngle(new THREE.Vector3(0,0,1),1.3).multiply(pitch);
+const yawControl=new UpperBodyVerticalController(robot.joints);
+yawControl.update(base,yawed,{L:10,R:0},settings,.01);
+assert.ok(Math.abs(yawControl.state.pitch-.1*180/Math.PI)<1e-10,'Tilt feedback must not change when heading changes');
+for(let i=0;i<1000;i++)control.update(base,pitch,{L:10,R:0},settings,.01);
+assert.equal(control.offsets.L_HipPitch,-8,'Integral must remain within correction cap');
+const edge={...base,L_HipPitch:-24.5};
+const bounded=control.update(edge,pitch,{L:10,R:0},settings,.01);
+assert.equal(bounded.L_HipPitch,-25);assert.equal(control.offsets.L_HipPitch,-.5,'Joint stop must also clamp stored integral');
+for(const dt of [1/120,1/240]){
+  const c=new UpperBodyVerticalController(robot.joints);
+  for(let i=0;i<Math.round(.1/dt);i++)c.update(base,pitch,{L:10,R:0},settings,dt);
+  assert.ok(Math.abs(c.offsets.L_HipPitch-(-3*.1*180/Math.PI*.1))<1e-10,'Integration uses elapsed seconds');
+}
+console.log('UVC: support gating, correction signs, heading invariance, limits, anti-windup, disabled output, timestep: PASS');

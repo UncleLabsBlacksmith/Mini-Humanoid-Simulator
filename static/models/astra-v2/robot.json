@@ -1,0 +1,415 @@
+{
+  "id": "astra-v2",
+  "name": "ASTRA V2 · PRIMER-inspired",
+  "height": 298.0,
+  "width": 244.0,
+  "depth": 101.0,
+  "units": "mm",
+  "joints": [
+    {
+      "name": "L_Hip_Roll",
+      "a": "Torso",
+      "b": "L_HipCarrier",
+      "p": [
+        -52,
+        0,
+        230
+      ],
+      "axis": [
+        0,
+        -1,
+        0
+      ],
+      "limits": [
+        -20,
+        20
+      ],
+      "label": "สะโพกเอียง ซ้าย",
+      "group": "leg"
+    },
+    {
+      "name": "L_HipPitch",
+      "a": "L_HipCarrier",
+      "b": "L_Thigh",
+      "p": [
+        -52,
+        0,
+        205
+      ],
+      "axis": [
+        -1,
+        0,
+        0
+      ],
+      "limits": [
+        -45,
+        60
+      ],
+      "label": "สะโพกหน้า–หลัง ซ้าย",
+      "group": "leg"
+    },
+    {
+      "name": "L_KneePitch",
+      "a": "L_Thigh",
+      "b": "L_Shin",
+      "p": [
+        -52,
+        0,
+        140
+      ],
+      "axis": [
+        1,
+        0,
+        0
+      ],
+      "limits": [
+        0,
+        100
+      ],
+      "label": "เข่า ซ้าย",
+      "group": "leg"
+    },
+    {
+      "name": "L_AnklePitch",
+      "a": "L_Shin",
+      "b": "L_AnkleCarrier",
+      "p": [
+        -52,
+        0,
+        75
+      ],
+      "axis": [
+        -1,
+        0,
+        0
+      ],
+      "limits": [
+        -45,
+        45
+      ],
+      "label": "ข้อเท้าหน้า–หลัง ซ้าย",
+      "group": "leg"
+    },
+    {
+      "name": "L_AnkleRoll",
+      "a": "L_AnkleCarrier",
+      "b": "L_Foot",
+      "p": [
+        -52,
+        0,
+        24
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ],
+      "limits": [
+        -18,
+        18
+      ],
+      "label": "ข้อเท้าเอียง ซ้าย",
+      "group": "leg"
+    },
+    {
+      "name": "L_ShoulderPitch",
+      "a": "Torso",
+      "b": "L_ShoulderCarrier",
+      "p": [
+        -98,
+        0,
+        275
+      ],
+      "axis": [
+        -1,
+        0,
+        0
+      ],
+      "limits": [
+        -90,
+        90
+      ],
+      "label": "ไหล่หน้า–หลัง ซ้าย",
+      "group": "arm"
+    },
+    {
+      "name": "L_ShoulderRoll",
+      "a": "L_ShoulderCarrier",
+      "b": "L_UpperArm",
+      "p": [
+        -110,
+        0,
+        245
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ],
+      "limits": [
+        -35,
+        80
+      ],
+      "label": "ไหล่กางแขน ซ้าย",
+      "group": "arm"
+    },
+    {
+      "name": "L_ElbowPitch",
+      "a": "L_UpperArm",
+      "b": "L_Forearm",
+      "p": [
+        -110,
+        0,
+        190
+      ],
+      "axis": [
+        -1,
+        0,
+        0
+      ],
+      "limits": [
+        0,
+        120
+      ],
+      "label": "ข้อศอก ซ้าย",
+      "group": "arm"
+    },
+    {
+      "name": "R_Hip_Roll",
+      "a": "Torso",
+      "b": "R_HipCarrier",
+      "p": [
+        52,
+        0,
+        230
+      ],
+      "axis": [
+        0,
+        -1,
+        0
+      ],
+      "limits": [
+        -20,
+        20
+      ],
+      "label": "สะโพกเอียง ขวา",
+      "group": "leg"
+    },
+    {
+      "name": "R_HipPitch",
+      "a": "R_HipCarrier",
+      "b": "R_Thigh",
+      "p": [
+        52,
+        0,
+        205
+      ],
+      "axis": [
+        -1,
+        0,
+        0
+      ],
+      "limits": [
+        -45,
+        60
+      ],
+      "label": "สะโพกหน้า–หลัง ขวา",
+      "group": "leg"
+    },
+    {
+      "name": "R_KneePitch",
+      "a": "R_Thigh",
+      "b": "R_Shin",
+      "p": [
+        52,
+        0,
+        140
+      ],
+      "axis": [
+        1,
+        0,
+        0
+      ],
+      "limits": [
+        0,
+        100
+      ],
+      "label": "เข่า ขวา",
+      "group": "leg"
+    },
+    {
+      "name": "R_AnklePitch",
+      "a": "R_Shin",
+      "b": "R_AnkleCarrier",
+      "p": [
+        52,
+        0,
+        75
+      ],
+      "axis": [
+        -1,
+        0,
+        0
+      ],
+      "limits": [
+        -45,
+        45
+      ],
+      "label": "ข้อเท้าหน้า–หลัง ขวา",
+      "group": "leg"
+    },
+    {
+      "name": "R_AnkleRoll",
+      "a": "R_AnkleCarrier",
+      "b": "R_Foot",
+      "p": [
+        52,
+        0,
+        24
+      ],
+      "axis": [
+        0,
+        1,
+        0
+      ],
+      "limits": [
+        -18,
+        18
+      ],
+      "label": "ข้อเท้าเอียง ขวา",
+      "group": "leg"
+    },
+    {
+      "name": "R_ShoulderPitch",
+      "a": "Torso",
+      "b": "R_ShoulderCarrier",
+      "p": [
+        98,
+        0,
+        275
+      ],
+      "axis": [
+        -1,
+        0,
+        0
+      ],
+      "limits": [
+        -90,
+        90
+      ],
+      "label": "ไหล่หน้า–หลัง ขวา",
+      "group": "arm"
+    },
+    {
+      "name": "R_ShoulderRoll",
+      "a": "R_ShoulderCarrier",
+      "b": "R_UpperArm",
+      "p": [
+        110,
+        0,
+        245
+      ],
+      "axis": [
+        0,
+        -1,
+        0
+      ],
+      "limits": [
+        -35,
+        80
+      ],
+      "label": "ไหล่กางแขน ขวา",
+      "group": "arm"
+    },
+    {
+      "name": "R_ElbowPitch",
+      "a": "R_UpperArm",
+      "b": "R_Forearm",
+      "p": [
+        110,
+        0,
+        190
+      ],
+      "axis": [
+        -1,
+        0,
+        0
+      ],
+      "limits": [
+        0,
+        120
+      ],
+      "label": "ข้อศอก ขวา",
+      "group": "arm"
+    }
+  ],
+  "links": [
+    "Torso",
+    "L_HipCarrier",
+    "L_Thigh",
+    "L_Shin",
+    "L_AnkleCarrier",
+    "L_Foot",
+    "L_ShoulderCarrier",
+    "L_UpperArm",
+    "L_Forearm",
+    "R_HipCarrier",
+    "R_Thigh",
+    "R_Shin",
+    "R_AnkleCarrier",
+    "R_Foot",
+    "R_ShoulderCarrier",
+    "R_UpperArm",
+    "R_Forearm"
+  ],
+  "meshCount": 94,
+  "source": "ASTRA_V2_298_Concept.solidcraft",
+  "simulation": "kinematic",
+  "angleConvention": "Anatomical joint angles; not servo PWM.",
+  "footCorners": {
+    "L": [
+      [
+        -82,
+        -52.5,
+        0
+      ],
+      [
+        -82,
+        42.5,
+        0
+      ],
+      [
+        -22,
+        -52.5,
+        0
+      ],
+      [
+        -22,
+        42.5,
+        0
+      ]
+    ],
+    "R": [
+      [
+        22,
+        -52.5,
+        0
+      ],
+      [
+        22,
+        42.5,
+        0
+      ],
+      [
+        82,
+        -52.5,
+        0
+      ],
+      [
+        82,
+        42.5,
+        0
+      ]
+    ]
+  }
+}

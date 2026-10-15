@@ -1,0 +1,3375 @@
+{
+  "version": 1,
+  "name": "ย่อตัว",
+  "description": "พับสะโพก เข่า และข้อเท้าสัมพันธ์กัน พร้อมลดระดับลำตัว",
+  "loop": true,
+  "interpolation": "linear",
+  "frames": [
+    {
+      "t": 0.0,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 0.0,
+        "L_KneePitch": 0,
+        "L_AnklePitch": 0.0,
+        "L_ShoulderPitch": 0.0,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 0.0,
+        "R_KneePitch": 0,
+        "R_AnklePitch": 0.0,
+        "R_ShoulderPitch": 0.0,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        0.0
+      ]
+    },
+    {
+      "t": 0.025,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 0.01268386840820312,
+        "L_KneePitch": 0.02536773681640624,
+        "L_AnklePitch": 0.01268386840820312,
+        "L_ShoulderPitch": 0.01268386840820312,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 0.01268386840820312,
+        "R_KneePitch": 0.02536773681640624,
+        "R_AnklePitch": 0.01268386840820312,
+        "R_ShoulderPitch": 0.01268386840820312,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -3e-06
+      ]
+    },
+    {
+      "t": 0.05,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 0.05020141601562498,
+        "L_KneePitch": 0.10040283203124996,
+        "L_AnklePitch": 0.05020141601562498,
+        "L_ShoulderPitch": 0.05020141601562498,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 0.05020141601562498,
+        "R_KneePitch": 0.10040283203124996,
+        "R_AnklePitch": 0.05020141601562498,
+        "R_ShoulderPitch": 0.05020141601562498,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -4.8e-05
+      ]
+    },
+    {
+      "t": 0.075,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 0.11175155639648433,
+        "L_KneePitch": 0.22350311279296867,
+        "L_AnklePitch": 0.11175155639648433,
+        "L_ShoulderPitch": 0.11175155639648433,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 0.11175155639648433,
+        "R_KneePitch": 0.22350311279296867,
+        "R_AnklePitch": 0.11175155639648433,
+        "R_ShoulderPitch": 0.11175155639648433,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.00024
+      ]
+    },
+    {
+      "t": 0.1,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 0.19653320312499992,
+        "L_KneePitch": 0.39306640624999983,
+        "L_AnklePitch": 0.19653320312499992,
+        "L_ShoulderPitch": 0.19653320312499992,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 0.19653320312499992,
+        "R_KneePitch": 0.39306640624999983,
+        "R_AnklePitch": 0.19653320312499992,
+        "R_ShoulderPitch": 0.19653320312499992,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.000741
+      ]
+    },
+    {
+      "t": 0.125,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 0.3037452697753906,
+        "L_KneePitch": 0.6074905395507812,
+        "L_AnklePitch": 0.3037452697753906,
+        "L_ShoulderPitch": 0.3037452697753906,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 0.3037452697753906,
+        "R_KneePitch": 0.6074905395507812,
+        "R_AnklePitch": 0.3037452697753906,
+        "R_ShoulderPitch": 0.3037452697753906,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.001771
+      ]
+    },
+    {
+      "t": 0.15,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 0.43258666992187483,
+        "L_KneePitch": 0.8651733398437497,
+        "L_AnklePitch": 0.43258666992187483,
+        "L_ShoulderPitch": 0.43258666992187483,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 0.43258666992187483,
+        "R_KneePitch": 0.8651733398437497,
+        "R_AnklePitch": 0.43258666992187483,
+        "R_ShoulderPitch": 0.43258666992187483,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.003591
+      ]
+    },
+    {
+      "t": 0.175,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 0.5822563171386718,
+        "L_KneePitch": 1.1645126342773435,
+        "L_AnklePitch": 0.5822563171386718,
+        "L_ShoulderPitch": 0.5822563171386718,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 0.5822563171386718,
+        "R_KneePitch": 1.1645126342773435,
+        "R_AnklePitch": 0.5822563171386718,
+        "R_ShoulderPitch": 0.5822563171386718,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.006506
+      ]
+    },
+    {
+      "t": 0.2,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 0.7519531249999997,
+        "L_KneePitch": 1.5039062499999993,
+        "L_AnklePitch": 0.7519531249999997,
+        "L_ShoulderPitch": 0.7519531249999997,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 0.7519531249999997,
+        "R_KneePitch": 1.5039062499999993,
+        "R_AnklePitch": 0.7519531249999997,
+        "R_ShoulderPitch": 0.7519531249999997,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.010851
+      ]
+    },
+    {
+      "t": 0.225,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 0.9408760070800778,
+        "L_KneePitch": 1.8817520141601556,
+        "L_AnklePitch": 0.9408760070800778,
+        "L_ShoulderPitch": 0.9408760070800778,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 0.9408760070800778,
+        "R_KneePitch": 1.8817520141601556,
+        "R_AnklePitch": 0.9408760070800778,
+        "R_ShoulderPitch": 0.9408760070800778,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.016988
+      ]
+    },
+    {
+      "t": 0.25,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 1.148223876953125,
+        "L_KneePitch": 2.29644775390625,
+        "L_AnklePitch": 1.148223876953125,
+        "L_ShoulderPitch": 1.148223876953125,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 1.148223876953125,
+        "R_KneePitch": 2.29644775390625,
+        "R_AnklePitch": 1.148223876953125,
+        "R_ShoulderPitch": 1.148223876953125,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.025301
+      ]
+    },
+    {
+      "t": 0.275,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 1.3731956481933592,
+        "L_KneePitch": 2.7463912963867183,
+        "L_AnklePitch": 1.3731956481933592,
+        "L_ShoulderPitch": 1.3731956481933592,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 1.3731956481933592,
+        "R_KneePitch": 2.7463912963867183,
+        "R_AnklePitch": 1.3731956481933592,
+        "R_ShoulderPitch": 1.3731956481933592,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.036186
+      ]
+    },
+    {
+      "t": 0.3,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 1.6149902343749993,
+        "L_KneePitch": 3.2299804687499987,
+        "L_AnklePitch": 1.6149902343749993,
+        "L_ShoulderPitch": 1.6149902343749993,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 1.6149902343749993,
+        "R_KneePitch": 3.2299804687499987,
+        "R_AnklePitch": 1.6149902343749993,
+        "R_ShoulderPitch": 1.6149902343749993,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.05005
+      ]
+    },
+    {
+      "t": 0.325,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 1.8728065490722656,
+        "L_KneePitch": 3.7456130981445312,
+        "L_AnklePitch": 1.8728065490722656,
+        "L_ShoulderPitch": 1.8728065490722656,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 1.8728065490722656,
+        "R_KneePitch": 3.7456130981445312,
+        "R_AnklePitch": 1.8728065490722656,
+        "R_ShoulderPitch": 1.8728065490722656,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.067304
+      ]
+    },
+    {
+      "t": 0.35,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 2.1458435058593746,
+        "L_KneePitch": 4.291687011718749,
+        "L_AnklePitch": 2.1458435058593746,
+        "L_ShoulderPitch": 2.1458435058593746,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 2.1458435058593746,
+        "R_KneePitch": 4.291687011718749,
+        "R_AnklePitch": 2.1458435058593746,
+        "R_ShoulderPitch": 2.1458435058593746,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.088357
+      ]
+    },
+    {
+      "t": 0.375,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 2.433300018310547,
+        "L_KneePitch": 4.866600036621094,
+        "L_AnklePitch": 2.433300018310547,
+        "L_ShoulderPitch": 2.433300018310547,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 2.433300018310547,
+        "R_KneePitch": 4.866600036621094,
+        "R_AnklePitch": 2.433300018310547,
+        "R_ShoulderPitch": 2.433300018310547,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.113611
+      ]
+    },
+    {
+      "t": 0.4,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 2.734374999999999,
+        "L_KneePitch": 5.468749999999998,
+        "L_AnklePitch": 2.734374999999999,
+        "L_ShoulderPitch": 2.734374999999999,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 2.734374999999999,
+        "R_KneePitch": 5.468749999999998,
+        "R_AnklePitch": 2.734374999999999,
+        "R_ShoulderPitch": 2.734374999999999,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.143459
+      ]
+    },
+    {
+      "t": 0.425,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 3.048267364501953,
+        "L_KneePitch": 6.096534729003906,
+        "L_AnklePitch": 3.048267364501953,
+        "L_ShoulderPitch": 3.048267364501953,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 3.048267364501953,
+        "R_KneePitch": 6.096534729003906,
+        "R_AnklePitch": 3.048267364501953,
+        "R_ShoulderPitch": 3.048267364501953,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.178278
+      ]
+    },
+    {
+      "t": 0.45,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 3.374176025390624,
+        "L_KneePitch": 6.748352050781248,
+        "L_AnklePitch": 3.374176025390624,
+        "L_ShoulderPitch": 3.374176025390624,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 3.374176025390624,
+        "R_KneePitch": 6.748352050781248,
+        "R_AnklePitch": 3.374176025390624,
+        "R_ShoulderPitch": 3.374176025390624,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.218426
+      ]
+    },
+    {
+      "t": 0.475,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 3.7112998962402344,
+        "L_KneePitch": 7.422599792480469,
+        "L_AnklePitch": 3.7112998962402344,
+        "L_ShoulderPitch": 3.7112998962402344,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 3.7112998962402344,
+        "R_KneePitch": 7.422599792480469,
+        "R_AnklePitch": 3.7112998962402344,
+        "R_ShoulderPitch": 3.7112998962402344,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.264238
+      ]
+    },
+    {
+      "t": 0.5,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 4.058837890625,
+        "L_KneePitch": 8.11767578125,
+        "L_AnklePitch": 4.058837890625,
+        "L_ShoulderPitch": 4.058837890625,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 4.058837890625,
+        "R_KneePitch": 8.11767578125,
+        "R_AnklePitch": 4.058837890625,
+        "R_ShoulderPitch": 4.058837890625,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.316022
+      ]
+    },
+    {
+      "t": 0.525,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 4.415988922119141,
+        "L_KneePitch": 8.831977844238281,
+        "L_AnklePitch": 4.415988922119141,
+        "L_ShoulderPitch": 4.415988922119141,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 4.415988922119141,
+        "R_KneePitch": 8.831977844238281,
+        "R_AnklePitch": 4.415988922119141,
+        "R_ShoulderPitch": 4.415988922119141,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.374056
+      ]
+    },
+    {
+      "t": 0.55,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 4.781951904296874,
+        "L_KneePitch": 9.563903808593748,
+        "L_AnklePitch": 4.781951904296874,
+        "L_ShoulderPitch": 4.781951904296874,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 4.781951904296874,
+        "R_KneePitch": 9.563903808593748,
+        "R_AnklePitch": 4.781951904296874,
+        "R_ShoulderPitch": 4.781951904296874,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.438585
+      ]
+    },
+    {
+      "t": 0.575,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 5.15592575073242,
+        "L_KneePitch": 10.31185150146484,
+        "L_AnklePitch": 5.15592575073242,
+        "L_ShoulderPitch": 5.15592575073242,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 5.15592575073242,
+        "R_KneePitch": 10.31185150146484,
+        "R_AnklePitch": 5.15592575073242,
+        "R_ShoulderPitch": 5.15592575073242,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.509818
+      ]
+    },
+    {
+      "t": 0.6,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 5.537109374999998,
+        "L_KneePitch": 11.074218749999996,
+        "L_AnklePitch": 5.537109374999998,
+        "L_ShoulderPitch": 5.537109374999998,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 5.537109374999998,
+        "R_KneePitch": 11.074218749999996,
+        "R_AnklePitch": 5.537109374999998,
+        "R_ShoulderPitch": 5.537109374999998,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.587927
+      ]
+    },
+    {
+      "t": 0.625,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 5.924701690673828,
+        "L_KneePitch": 11.849403381347656,
+        "L_AnklePitch": 5.924701690673828,
+        "L_ShoulderPitch": 5.924701690673828,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 5.924701690673828,
+        "R_KneePitch": 11.849403381347656,
+        "R_AnklePitch": 5.924701690673828,
+        "R_ShoulderPitch": 5.924701690673828,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.673041
+      ]
+    },
+    {
+      "t": 0.65,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 6.317901611328125,
+        "L_KneePitch": 12.63580322265625,
+        "L_AnklePitch": 6.317901611328125,
+        "L_ShoulderPitch": 6.317901611328125,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 6.317901611328125,
+        "R_KneePitch": 12.63580322265625,
+        "R_AnklePitch": 6.317901611328125,
+        "R_ShoulderPitch": 6.317901611328125,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.765246
+      ]
+    },
+    {
+      "t": 0.675,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 6.715908050537108,
+        "L_KneePitch": 13.431816101074215,
+        "L_AnklePitch": 6.715908050537108,
+        "L_ShoulderPitch": 6.715908050537108,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 6.715908050537108,
+        "R_KneePitch": 13.431816101074215,
+        "R_AnklePitch": 6.715908050537108,
+        "R_ShoulderPitch": 6.715908050537108,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.864585
+      ]
+    },
+    {
+      "t": 0.7,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 7.117919921874998,
+        "L_KneePitch": 14.235839843749996,
+        "L_AnklePitch": 7.117919921874998,
+        "L_ShoulderPitch": 7.117919921874998,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 7.117919921874998,
+        "R_KneePitch": 14.235839843749996,
+        "R_AnklePitch": 7.117919921874998,
+        "R_ShoulderPitch": 7.117919921874998,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.971053
+      ]
+    },
+    {
+      "t": 0.725,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 7.523136138916014,
+        "L_KneePitch": 15.046272277832028,
+        "L_AnklePitch": 7.523136138916014,
+        "L_ShoulderPitch": 7.523136138916014,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 7.523136138916014,
+        "R_KneePitch": 15.046272277832028,
+        "R_AnklePitch": 7.523136138916014,
+        "R_ShoulderPitch": 7.523136138916014,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -1.084599
+      ]
+    },
+    {
+      "t": 0.75,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 7.930755615234375,
+        "L_KneePitch": 15.86151123046875,
+        "L_AnklePitch": 7.930755615234375,
+        "L_ShoulderPitch": 7.930755615234375,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 7.930755615234375,
+        "R_KneePitch": 15.86151123046875,
+        "R_AnklePitch": 7.930755615234375,
+        "R_ShoulderPitch": 7.930755615234375,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -1.205122
+      ]
+    },
+    {
+      "t": 0.775,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 8.339977264404297,
+        "L_KneePitch": 16.679954528808594,
+        "L_AnklePitch": 8.339977264404297,
+        "L_ShoulderPitch": 8.339977264404297,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 8.339977264404297,
+        "R_KneePitch": 16.679954528808594,
+        "R_AnklePitch": 8.339977264404297,
+        "R_ShoulderPitch": 8.339977264404297,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -1.332472
+      ]
+    },
+    {
+      "t": 0.8,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 8.749999999999996,
+        "L_KneePitch": 17.499999999999993,
+        "L_AnklePitch": 8.749999999999996,
+        "L_ShoulderPitch": 8.749999999999996,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 8.749999999999996,
+        "R_KneePitch": 17.499999999999993,
+        "R_AnklePitch": 8.749999999999996,
+        "R_ShoulderPitch": 8.749999999999996,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -1.46645
+      ]
+    },
+    {
+      "t": 0.825,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 9.160022735595701,
+        "L_KneePitch": 18.320045471191403,
+        "L_AnklePitch": 9.160022735595701,
+        "L_ShoulderPitch": 9.160022735595701,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 9.160022735595701,
+        "R_KneePitch": 18.320045471191403,
+        "R_AnklePitch": 9.160022735595701,
+        "R_ShoulderPitch": 9.160022735595701,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -1.606805
+      ]
+    },
+    {
+      "t": 0.85,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 9.569244384765625,
+        "L_KneePitch": 19.13848876953125,
+        "L_AnklePitch": 9.569244384765625,
+        "L_ShoulderPitch": 9.569244384765625,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 9.569244384765625,
+        "R_KneePitch": 19.13848876953125,
+        "R_AnklePitch": 9.569244384765625,
+        "R_ShoulderPitch": 9.569244384765625,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -1.753238
+      ]
+    },
+    {
+      "t": 0.875,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 9.976863861083984,
+        "L_KneePitch": 19.95372772216797,
+        "L_AnklePitch": 9.976863861083984,
+        "L_ShoulderPitch": 9.976863861083984,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 9.976863861083984,
+        "R_KneePitch": 19.95372772216797,
+        "R_AnklePitch": 9.976863861083984,
+        "R_ShoulderPitch": 9.976863861083984,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -1.905398
+      ]
+    },
+    {
+      "t": 0.9,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 10.382080078124998,
+        "L_KneePitch": 20.764160156249996,
+        "L_AnklePitch": 10.382080078124998,
+        "L_ShoulderPitch": 10.382080078124998,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 10.382080078124998,
+        "R_KneePitch": 20.764160156249996,
+        "R_AnklePitch": 10.382080078124998,
+        "R_ShoulderPitch": 10.382080078124998,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -2.062887
+      ]
+    },
+    {
+      "t": 0.925,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 10.784091949462889,
+        "L_KneePitch": 21.568183898925778,
+        "L_AnklePitch": 10.784091949462889,
+        "L_ShoulderPitch": 10.784091949462889,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 10.784091949462889,
+        "R_KneePitch": 21.568183898925778,
+        "R_AnklePitch": 10.784091949462889,
+        "R_ShoulderPitch": 10.784091949462889,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -2.225256
+      ]
+    },
+    {
+      "t": 0.95,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 11.182098388671875,
+        "L_KneePitch": 22.36419677734375,
+        "L_AnklePitch": 11.182098388671875,
+        "L_ShoulderPitch": 11.182098388671875,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 11.182098388671875,
+        "R_KneePitch": 22.36419677734375,
+        "R_AnklePitch": 11.182098388671875,
+        "R_ShoulderPitch": 11.182098388671875,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -2.39201
+      ]
+    },
+    {
+      "t": 0.975,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 11.575298309326172,
+        "L_KneePitch": 23.150596618652344,
+        "L_AnklePitch": 11.575298309326172,
+        "L_ShoulderPitch": 11.575298309326172,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 11.575298309326172,
+        "R_KneePitch": 23.150596618652344,
+        "R_AnklePitch": 11.575298309326172,
+        "R_ShoulderPitch": 11.575298309326172,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -2.562607
+      ]
+    },
+    {
+      "t": 1.0,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 11.962890625,
+        "L_KneePitch": 23.92578125,
+        "L_AnklePitch": 11.962890625,
+        "L_ShoulderPitch": 11.962890625,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 11.962890625,
+        "R_KneePitch": 23.92578125,
+        "R_AnklePitch": 11.962890625,
+        "R_ShoulderPitch": 11.962890625,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -2.736461
+      ]
+    },
+    {
+      "t": 1.025,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 12.344074249267575,
+        "L_KneePitch": 24.68814849853515,
+        "L_AnklePitch": 12.344074249267575,
+        "L_ShoulderPitch": 12.344074249267575,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 12.344074249267575,
+        "R_KneePitch": 24.68814849853515,
+        "R_AnklePitch": 12.344074249267575,
+        "R_ShoulderPitch": 12.344074249267575,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -2.912942
+      ]
+    },
+    {
+      "t": 1.05,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 12.718048095703125,
+        "L_KneePitch": 25.43609619140625,
+        "L_AnklePitch": 12.718048095703125,
+        "L_ShoulderPitch": 12.718048095703125,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 12.718048095703125,
+        "R_KneePitch": 25.43609619140625,
+        "R_AnklePitch": 12.718048095703125,
+        "R_ShoulderPitch": 12.718048095703125,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -3.091379
+      ]
+    },
+    {
+      "t": 1.075,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 13.084011077880858,
+        "L_KneePitch": 26.168022155761715,
+        "L_AnklePitch": 13.084011077880858,
+        "L_ShoulderPitch": 13.084011077880858,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 13.084011077880858,
+        "R_KneePitch": 26.168022155761715,
+        "R_AnklePitch": 13.084011077880858,
+        "R_ShoulderPitch": 13.084011077880858,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -3.271064
+      ]
+    },
+    {
+      "t": 1.1,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 13.441162109374998,
+        "L_KneePitch": 26.882324218749996,
+        "L_AnklePitch": 13.441162109374998,
+        "L_ShoulderPitch": 13.441162109374998,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 13.441162109374998,
+        "R_KneePitch": 26.882324218749996,
+        "R_AnklePitch": 13.441162109374998,
+        "R_ShoulderPitch": 13.441162109374998,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -3.451249
+      ]
+    },
+    {
+      "t": 1.125,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 13.788700103759766,
+        "L_KneePitch": 27.57740020751953,
+        "L_AnklePitch": 13.788700103759766,
+        "L_ShoulderPitch": 13.788700103759766,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 13.788700103759766,
+        "R_KneePitch": 27.57740020751953,
+        "R_AnklePitch": 13.788700103759766,
+        "R_ShoulderPitch": 13.788700103759766,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -3.631156
+      ]
+    },
+    {
+      "t": 1.15,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 14.125823974609371,
+        "L_KneePitch": 28.251647949218743,
+        "L_AnklePitch": 14.125823974609371,
+        "L_ShoulderPitch": 14.125823974609371,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 14.125823974609371,
+        "R_KneePitch": 28.251647949218743,
+        "R_AnklePitch": 14.125823974609371,
+        "R_ShoulderPitch": 14.125823974609371,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -3.809973
+      ]
+    },
+    {
+      "t": 1.175,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 14.451732635498047,
+        "L_KneePitch": 28.903465270996094,
+        "L_AnklePitch": 14.451732635498047,
+        "L_ShoulderPitch": 14.451732635498047,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 14.451732635498047,
+        "R_KneePitch": 28.903465270996094,
+        "R_AnklePitch": 14.451732635498047,
+        "R_ShoulderPitch": 14.451732635498047,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -3.986864
+      ]
+    },
+    {
+      "t": 1.2,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 14.765624999999996,
+        "L_KneePitch": 29.531249999999993,
+        "L_AnklePitch": 14.765624999999996,
+        "L_ShoulderPitch": 14.765624999999996,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 14.765624999999996,
+        "R_KneePitch": 29.531249999999993,
+        "R_AnklePitch": 14.765624999999996,
+        "R_ShoulderPitch": 14.765624999999996,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -4.160965
+      ]
+    },
+    {
+      "t": 1.225,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 15.06669998168945,
+        "L_KneePitch": 30.1333999633789,
+        "L_AnklePitch": 15.06669998168945,
+        "L_ShoulderPitch": 15.06669998168945,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 15.06669998168945,
+        "R_KneePitch": 30.1333999633789,
+        "R_AnklePitch": 15.06669998168945,
+        "R_ShoulderPitch": 15.06669998168945,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -4.331392
+      ]
+    },
+    {
+      "t": 1.25,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 15.354156494140625,
+        "L_KneePitch": 30.70831298828125,
+        "L_AnklePitch": 15.354156494140625,
+        "L_ShoulderPitch": 15.354156494140625,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 15.354156494140625,
+        "R_KneePitch": 30.70831298828125,
+        "R_AnklePitch": 15.354156494140625,
+        "R_ShoulderPitch": 15.354156494140625,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -4.497246
+      ]
+    },
+    {
+      "t": 1.275,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 15.627193450927733,
+        "L_KneePitch": 31.254386901855465,
+        "L_AnklePitch": 15.627193450927733,
+        "L_ShoulderPitch": 15.627193450927733,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 15.627193450927733,
+        "R_KneePitch": 31.254386901855465,
+        "R_AnklePitch": 15.627193450927733,
+        "R_ShoulderPitch": 15.627193450927733,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -4.657612
+      ]
+    },
+    {
+      "t": 1.3,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 15.885009765625,
+        "L_KneePitch": 31.77001953125,
+        "L_AnklePitch": 15.885009765625,
+        "L_ShoulderPitch": 15.885009765625,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 15.885009765625,
+        "R_KneePitch": 31.77001953125,
+        "R_AnklePitch": 15.885009765625,
+        "R_ShoulderPitch": 15.885009765625,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -4.811568
+      ]
+    },
+    {
+      "t": 1.325,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 16.126804351806637,
+        "L_KneePitch": 32.253608703613274,
+        "L_AnklePitch": 16.126804351806637,
+        "L_ShoulderPitch": 16.126804351806637,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 16.126804351806637,
+        "R_KneePitch": 32.253608703613274,
+        "R_AnklePitch": 16.126804351806637,
+        "R_ShoulderPitch": 16.126804351806637,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -4.958186
+      ]
+    },
+    {
+      "t": 1.35,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 16.35177612304687,
+        "L_KneePitch": 32.70355224609374,
+        "L_AnklePitch": 16.35177612304687,
+        "L_ShoulderPitch": 16.35177612304687,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 16.35177612304687,
+        "R_KneePitch": 32.70355224609374,
+        "R_AnklePitch": 16.35177612304687,
+        "R_ShoulderPitch": 16.35177612304687,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -5.09654
+      ]
+    },
+    {
+      "t": 1.375,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 16.559123992919922,
+        "L_KneePitch": 33.118247985839844,
+        "L_AnklePitch": 16.559123992919922,
+        "L_ShoulderPitch": 16.559123992919922,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 16.559123992919922,
+        "R_KneePitch": 33.118247985839844,
+        "R_AnklePitch": 16.559123992919922,
+        "R_ShoulderPitch": 16.559123992919922,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -5.225706
+      ]
+    },
+    {
+      "t": 1.4,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 16.748046875,
+        "L_KneePitch": 33.49609375,
+        "L_AnklePitch": 16.748046875,
+        "L_ShoulderPitch": 16.748046875,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 16.748046875,
+        "R_KneePitch": 33.49609375,
+        "R_AnklePitch": 16.748046875,
+        "R_ShoulderPitch": 16.748046875,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -5.344771
+      ]
+    },
+    {
+      "t": 1.425,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 16.917743682861328,
+        "L_KneePitch": 33.835487365722656,
+        "L_AnklePitch": 16.917743682861328,
+        "L_ShoulderPitch": 16.917743682861328,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 16.917743682861328,
+        "R_KneePitch": 33.835487365722656,
+        "R_AnklePitch": 16.917743682861328,
+        "R_ShoulderPitch": 16.917743682861328,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -5.452838
+      ]
+    },
+    {
+      "t": 1.45,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 17.067413330078125,
+        "L_KneePitch": 34.13482666015625,
+        "L_AnklePitch": 17.067413330078125,
+        "L_ShoulderPitch": 17.067413330078125,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 17.067413330078125,
+        "R_KneePitch": 34.13482666015625,
+        "R_AnklePitch": 17.067413330078125,
+        "R_ShoulderPitch": 17.067413330078125,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -5.549028
+      ]
+    },
+    {
+      "t": 1.475,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 17.196254730224606,
+        "L_KneePitch": 34.39250946044921,
+        "L_AnklePitch": 17.196254730224606,
+        "L_ShoulderPitch": 17.196254730224606,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 17.196254730224606,
+        "R_KneePitch": 34.39250946044921,
+        "R_AnklePitch": 17.196254730224606,
+        "R_ShoulderPitch": 17.196254730224606,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -5.632491
+      ]
+    },
+    {
+      "t": 1.5,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 17.303466796875,
+        "L_KneePitch": 34.60693359375,
+        "L_AnklePitch": 17.303466796875,
+        "L_ShoulderPitch": 17.303466796875,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 17.303466796875,
+        "R_KneePitch": 34.60693359375,
+        "R_AnklePitch": 17.303466796875,
+        "R_ShoulderPitch": 17.303466796875,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -5.702407
+      ]
+    },
+    {
+      "t": 1.525,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 17.388248443603512,
+        "L_KneePitch": 34.776496887207024,
+        "L_AnklePitch": 17.388248443603512,
+        "L_ShoulderPitch": 17.388248443603512,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 17.388248443603512,
+        "R_KneePitch": 34.776496887207024,
+        "R_AnklePitch": 17.388248443603512,
+        "R_ShoulderPitch": 17.388248443603512,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -5.757993
+      ]
+    },
+    {
+      "t": 1.55,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 17.449798583984375,
+        "L_KneePitch": 34.89959716796875,
+        "L_AnklePitch": 17.449798583984375,
+        "L_ShoulderPitch": 17.449798583984375,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 17.449798583984375,
+        "R_KneePitch": 34.89959716796875,
+        "R_AnklePitch": 17.449798583984375,
+        "R_ShoulderPitch": 17.449798583984375,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -5.798513
+      ]
+    },
+    {
+      "t": 1.575,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 17.487316131591793,
+        "L_KneePitch": 34.97463226318359,
+        "L_AnklePitch": 17.487316131591793,
+        "L_ShoulderPitch": 17.487316131591793,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 17.487316131591793,
+        "R_KneePitch": 34.97463226318359,
+        "R_AnklePitch": 17.487316131591793,
+        "R_ShoulderPitch": 17.487316131591793,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -5.823279
+      ]
+    },
+    {
+      "t": 1.6,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 17.499999999999996,
+        "L_KneePitch": 34.99999999999999,
+        "L_AnklePitch": 17.499999999999996,
+        "L_ShoulderPitch": 17.499999999999996,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 17.499999999999996,
+        "R_KneePitch": 34.99999999999999,
+        "R_AnklePitch": 17.499999999999996,
+        "R_ShoulderPitch": 17.499999999999996,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -5.831664
+      ]
+    },
+    {
+      "t": 1.625,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 17.5,
+        "L_KneePitch": 35,
+        "L_AnklePitch": 17.5,
+        "L_ShoulderPitch": 17.5,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 17.5,
+        "R_KneePitch": 35,
+        "R_AnklePitch": 17.5,
+        "R_ShoulderPitch": 17.5,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -5.831664
+      ]
+    },
+    {
+      "t": 1.65,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 17.5,
+        "L_KneePitch": 35,
+        "L_AnklePitch": 17.5,
+        "L_ShoulderPitch": 17.5,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 17.5,
+        "R_KneePitch": 35,
+        "R_AnklePitch": 17.5,
+        "R_ShoulderPitch": 17.5,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -5.831664
+      ]
+    },
+    {
+      "t": 1.675,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 17.5,
+        "L_KneePitch": 35,
+        "L_AnklePitch": 17.5,
+        "L_ShoulderPitch": 17.5,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 17.5,
+        "R_KneePitch": 35,
+        "R_AnklePitch": 17.5,
+        "R_ShoulderPitch": 17.5,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -5.831664
+      ]
+    },
+    {
+      "t": 1.7,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 17.5,
+        "L_KneePitch": 35,
+        "L_AnklePitch": 17.5,
+        "L_ShoulderPitch": 17.5,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 17.5,
+        "R_KneePitch": 35,
+        "R_AnklePitch": 17.5,
+        "R_ShoulderPitch": 17.5,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -5.831664
+      ]
+    },
+    {
+      "t": 1.725,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 17.5,
+        "L_KneePitch": 35,
+        "L_AnklePitch": 17.5,
+        "L_ShoulderPitch": 17.5,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 17.5,
+        "R_KneePitch": 35,
+        "R_AnklePitch": 17.5,
+        "R_ShoulderPitch": 17.5,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -5.831664
+      ]
+    },
+    {
+      "t": 1.75,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 17.5,
+        "L_KneePitch": 35,
+        "L_AnklePitch": 17.5,
+        "L_ShoulderPitch": 17.5,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 17.5,
+        "R_KneePitch": 35,
+        "R_AnklePitch": 17.5,
+        "R_ShoulderPitch": 17.5,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -5.831664
+      ]
+    },
+    {
+      "t": 1.775,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 17.5,
+        "L_KneePitch": 35,
+        "L_AnklePitch": 17.5,
+        "L_ShoulderPitch": 17.5,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 17.5,
+        "R_KneePitch": 35,
+        "R_AnklePitch": 17.5,
+        "R_ShoulderPitch": 17.5,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -5.831664
+      ]
+    },
+    {
+      "t": 1.8,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 17.5,
+        "L_KneePitch": 35,
+        "L_AnklePitch": 17.5,
+        "L_ShoulderPitch": 17.5,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 17.5,
+        "R_KneePitch": 35,
+        "R_AnklePitch": 17.5,
+        "R_ShoulderPitch": 17.5,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -5.831664
+      ]
+    },
+    {
+      "t": 1.825,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 17.5,
+        "L_KneePitch": 35,
+        "L_AnklePitch": 17.5,
+        "L_ShoulderPitch": 17.5,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 17.5,
+        "R_KneePitch": 35,
+        "R_AnklePitch": 17.5,
+        "R_ShoulderPitch": 17.5,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -5.831664
+      ]
+    },
+    {
+      "t": 1.85,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 17.5,
+        "L_KneePitch": 35,
+        "L_AnklePitch": 17.5,
+        "L_ShoulderPitch": 17.5,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 17.5,
+        "R_KneePitch": 35,
+        "R_AnklePitch": 17.5,
+        "R_ShoulderPitch": 17.5,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -5.831664
+      ]
+    },
+    {
+      "t": 1.875,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 17.5,
+        "L_KneePitch": 35,
+        "L_AnklePitch": 17.5,
+        "L_ShoulderPitch": 17.5,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 17.5,
+        "R_KneePitch": 35,
+        "R_AnklePitch": 17.5,
+        "R_ShoulderPitch": 17.5,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -5.831664
+      ]
+    },
+    {
+      "t": 1.9,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 17.5,
+        "L_KneePitch": 35,
+        "L_AnklePitch": 17.5,
+        "L_ShoulderPitch": 17.5,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 17.5,
+        "R_KneePitch": 35,
+        "R_AnklePitch": 17.5,
+        "R_ShoulderPitch": 17.5,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -5.831664
+      ]
+    },
+    {
+      "t": 1.925,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 17.5,
+        "L_KneePitch": 35,
+        "L_AnklePitch": 17.5,
+        "L_ShoulderPitch": 17.5,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 17.5,
+        "R_KneePitch": 35,
+        "R_AnklePitch": 17.5,
+        "R_ShoulderPitch": 17.5,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -5.831664
+      ]
+    },
+    {
+      "t": 1.95,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 17.5,
+        "L_KneePitch": 35,
+        "L_AnklePitch": 17.5,
+        "L_ShoulderPitch": 17.5,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 17.5,
+        "R_KneePitch": 35,
+        "R_AnklePitch": 17.5,
+        "R_ShoulderPitch": 17.5,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -5.831664
+      ]
+    },
+    {
+      "t": 1.975,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 17.5,
+        "L_KneePitch": 35,
+        "L_AnklePitch": 17.5,
+        "L_ShoulderPitch": 17.5,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 17.5,
+        "R_KneePitch": 35,
+        "R_AnklePitch": 17.5,
+        "R_ShoulderPitch": 17.5,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -5.831664
+      ]
+    },
+    {
+      "t": 2.0,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 17.5,
+        "L_KneePitch": 35,
+        "L_AnklePitch": 17.5,
+        "L_ShoulderPitch": 17.5,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 17.5,
+        "R_KneePitch": 35,
+        "R_AnklePitch": 17.5,
+        "R_ShoulderPitch": 17.5,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -5.831664
+      ]
+    },
+    {
+      "t": 2.025,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 17.5,
+        "L_KneePitch": 35,
+        "L_AnklePitch": 17.5,
+        "L_ShoulderPitch": 17.5,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 17.5,
+        "R_KneePitch": 35,
+        "R_AnklePitch": 17.5,
+        "R_ShoulderPitch": 17.5,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -5.831664
+      ]
+    },
+    {
+      "t": 2.05,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 17.5,
+        "L_KneePitch": 35,
+        "L_AnklePitch": 17.5,
+        "L_ShoulderPitch": 17.5,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 17.5,
+        "R_KneePitch": 35,
+        "R_AnklePitch": 17.5,
+        "R_ShoulderPitch": 17.5,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -5.831664
+      ]
+    },
+    {
+      "t": 2.075,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 17.5,
+        "L_KneePitch": 35,
+        "L_AnklePitch": 17.5,
+        "L_ShoulderPitch": 17.5,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 17.5,
+        "R_KneePitch": 35,
+        "R_AnklePitch": 17.5,
+        "R_ShoulderPitch": 17.5,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -5.831664
+      ]
+    },
+    {
+      "t": 2.1,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 17.5,
+        "L_KneePitch": 35,
+        "L_AnklePitch": 17.5,
+        "L_ShoulderPitch": 17.5,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 17.5,
+        "R_KneePitch": 35,
+        "R_AnklePitch": 17.5,
+        "R_ShoulderPitch": 17.5,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -5.831664
+      ]
+    },
+    {
+      "t": 2.125,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 17.5,
+        "L_KneePitch": 35,
+        "L_AnklePitch": 17.5,
+        "L_ShoulderPitch": 17.5,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 17.5,
+        "R_KneePitch": 35,
+        "R_AnklePitch": 17.5,
+        "R_ShoulderPitch": 17.5,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -5.831664
+      ]
+    },
+    {
+      "t": 2.15,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 17.5,
+        "L_KneePitch": 35,
+        "L_AnklePitch": 17.5,
+        "L_ShoulderPitch": 17.5,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 17.5,
+        "R_KneePitch": 35,
+        "R_AnklePitch": 17.5,
+        "R_ShoulderPitch": 17.5,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -5.831664
+      ]
+    },
+    {
+      "t": 2.175,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 17.5,
+        "L_KneePitch": 35,
+        "L_AnklePitch": 17.5,
+        "L_ShoulderPitch": 17.5,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 17.5,
+        "R_KneePitch": 35,
+        "R_AnklePitch": 17.5,
+        "R_ShoulderPitch": 17.5,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -5.831664
+      ]
+    },
+    {
+      "t": 2.2,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 17.5,
+        "L_KneePitch": 35,
+        "L_AnklePitch": 17.5,
+        "L_ShoulderPitch": 17.5,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 17.5,
+        "R_KneePitch": 35,
+        "R_AnklePitch": 17.5,
+        "R_ShoulderPitch": 17.5,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -5.831664
+      ]
+    },
+    {
+      "t": 2.225,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 17.487316131591797,
+        "L_KneePitch": 34.974632263183594,
+        "L_AnklePitch": 17.487316131591797,
+        "L_ShoulderPitch": 17.487316131591797,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 17.487316131591797,
+        "R_KneePitch": 34.974632263183594,
+        "R_AnklePitch": 17.487316131591797,
+        "R_ShoulderPitch": 17.487316131591797,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -5.823279
+      ]
+    },
+    {
+      "t": 2.25,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 17.449798583984375,
+        "L_KneePitch": 34.89959716796875,
+        "L_AnklePitch": 17.449798583984375,
+        "L_ShoulderPitch": 17.449798583984375,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 17.449798583984375,
+        "R_KneePitch": 34.89959716796875,
+        "R_AnklePitch": 17.449798583984375,
+        "R_ShoulderPitch": 17.449798583984375,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -5.798513
+      ]
+    },
+    {
+      "t": 2.275,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 17.388248443603512,
+        "L_KneePitch": 34.776496887207024,
+        "L_AnklePitch": 17.388248443603512,
+        "L_ShoulderPitch": 17.388248443603512,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 17.388248443603512,
+        "R_KneePitch": 34.776496887207024,
+        "R_AnklePitch": 17.388248443603512,
+        "R_ShoulderPitch": 17.388248443603512,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -5.757993
+      ]
+    },
+    {
+      "t": 2.3,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 17.303466796875,
+        "L_KneePitch": 34.60693359375,
+        "L_AnklePitch": 17.303466796875,
+        "L_ShoulderPitch": 17.303466796875,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 17.303466796875,
+        "R_KneePitch": 34.60693359375,
+        "R_AnklePitch": 17.303466796875,
+        "R_ShoulderPitch": 17.303466796875,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -5.702407
+      ]
+    },
+    {
+      "t": 2.325,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 17.19625473022461,
+        "L_KneePitch": 34.39250946044922,
+        "L_AnklePitch": 17.19625473022461,
+        "L_ShoulderPitch": 17.19625473022461,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 17.19625473022461,
+        "R_KneePitch": 34.39250946044922,
+        "R_AnklePitch": 17.19625473022461,
+        "R_ShoulderPitch": 17.19625473022461,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -5.632491
+      ]
+    },
+    {
+      "t": 2.35,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 17.06741333007812,
+        "L_KneePitch": 34.13482666015624,
+        "L_AnklePitch": 17.06741333007812,
+        "L_ShoulderPitch": 17.06741333007812,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 17.06741333007812,
+        "R_KneePitch": 34.13482666015624,
+        "R_AnklePitch": 17.06741333007812,
+        "R_ShoulderPitch": 17.06741333007812,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -5.549028
+      ]
+    },
+    {
+      "t": 2.375,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 16.917743682861328,
+        "L_KneePitch": 33.835487365722656,
+        "L_AnklePitch": 16.917743682861328,
+        "L_ShoulderPitch": 16.917743682861328,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 16.917743682861328,
+        "R_KneePitch": 33.835487365722656,
+        "R_AnklePitch": 16.917743682861328,
+        "R_ShoulderPitch": 16.917743682861328,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -5.452838
+      ]
+    },
+    {
+      "t": 2.4,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 16.748046875,
+        "L_KneePitch": 33.49609375,
+        "L_AnklePitch": 16.748046875,
+        "L_ShoulderPitch": 16.748046875,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 16.748046875,
+        "R_KneePitch": 33.49609375,
+        "R_AnklePitch": 16.748046875,
+        "R_ShoulderPitch": 16.748046875,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -5.344771
+      ]
+    },
+    {
+      "t": 2.425,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 16.559123992919922,
+        "L_KneePitch": 33.118247985839844,
+        "L_AnklePitch": 16.559123992919922,
+        "L_ShoulderPitch": 16.559123992919922,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 16.559123992919922,
+        "R_KneePitch": 33.118247985839844,
+        "R_AnklePitch": 16.559123992919922,
+        "R_ShoulderPitch": 16.559123992919922,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -5.225706
+      ]
+    },
+    {
+      "t": 2.45,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 16.351776123046875,
+        "L_KneePitch": 32.70355224609375,
+        "L_AnklePitch": 16.351776123046875,
+        "L_ShoulderPitch": 16.351776123046875,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 16.351776123046875,
+        "R_KneePitch": 32.70355224609375,
+        "R_AnklePitch": 16.351776123046875,
+        "R_ShoulderPitch": 16.351776123046875,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -5.09654
+      ]
+    },
+    {
+      "t": 2.475,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 16.126804351806637,
+        "L_KneePitch": 32.253608703613274,
+        "L_AnklePitch": 16.126804351806637,
+        "L_ShoulderPitch": 16.126804351806637,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 16.126804351806637,
+        "R_KneePitch": 32.253608703613274,
+        "R_AnklePitch": 16.126804351806637,
+        "R_ShoulderPitch": 16.126804351806637,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -4.958186
+      ]
+    },
+    {
+      "t": 2.5,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 15.885009765624998,
+        "L_KneePitch": 31.770019531249996,
+        "L_AnklePitch": 15.885009765624998,
+        "L_ShoulderPitch": 15.885009765624998,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 15.885009765624998,
+        "R_KneePitch": 31.770019531249996,
+        "R_AnklePitch": 15.885009765624998,
+        "R_ShoulderPitch": 15.885009765624998,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -4.811568
+      ]
+    },
+    {
+      "t": 2.525,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 15.627193450927733,
+        "L_KneePitch": 31.254386901855465,
+        "L_AnklePitch": 15.627193450927733,
+        "L_ShoulderPitch": 15.627193450927733,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 15.627193450927733,
+        "R_KneePitch": 31.254386901855465,
+        "R_AnklePitch": 15.627193450927733,
+        "R_ShoulderPitch": 15.627193450927733,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -4.657612
+      ]
+    },
+    {
+      "t": 2.55,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 15.354156494140625,
+        "L_KneePitch": 30.70831298828125,
+        "L_AnklePitch": 15.354156494140625,
+        "L_ShoulderPitch": 15.354156494140625,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 15.354156494140625,
+        "R_KneePitch": 30.70831298828125,
+        "R_AnklePitch": 15.354156494140625,
+        "R_ShoulderPitch": 15.354156494140625,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -4.497246
+      ]
+    },
+    {
+      "t": 2.575,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 15.066699981689453,
+        "L_KneePitch": 30.133399963378906,
+        "L_AnklePitch": 15.066699981689453,
+        "L_ShoulderPitch": 15.066699981689453,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 15.066699981689453,
+        "R_KneePitch": 30.133399963378906,
+        "R_AnklePitch": 15.066699981689453,
+        "R_ShoulderPitch": 15.066699981689453,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -4.331392
+      ]
+    },
+    {
+      "t": 2.6,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 14.765624999999996,
+        "L_KneePitch": 29.531249999999993,
+        "L_AnklePitch": 14.765624999999996,
+        "L_ShoulderPitch": 14.765624999999996,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 14.765624999999996,
+        "R_KneePitch": 29.531249999999993,
+        "R_AnklePitch": 14.765624999999996,
+        "R_ShoulderPitch": 14.765624999999996,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -4.160965
+      ]
+    },
+    {
+      "t": 2.625,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 14.451732635498043,
+        "L_KneePitch": 28.903465270996087,
+        "L_AnklePitch": 14.451732635498043,
+        "L_ShoulderPitch": 14.451732635498043,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 14.451732635498043,
+        "R_KneePitch": 28.903465270996087,
+        "R_AnklePitch": 14.451732635498043,
+        "R_ShoulderPitch": 14.451732635498043,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -3.986864
+      ]
+    },
+    {
+      "t": 2.65,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 14.125823974609371,
+        "L_KneePitch": 28.251647949218743,
+        "L_AnklePitch": 14.125823974609371,
+        "L_ShoulderPitch": 14.125823974609371,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 14.125823974609371,
+        "R_KneePitch": 28.251647949218743,
+        "R_AnklePitch": 14.125823974609371,
+        "R_ShoulderPitch": 14.125823974609371,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -3.809973
+      ]
+    },
+    {
+      "t": 2.675,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 13.788700103759766,
+        "L_KneePitch": 27.57740020751953,
+        "L_AnklePitch": 13.788700103759766,
+        "L_ShoulderPitch": 13.788700103759766,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 13.788700103759766,
+        "R_KneePitch": 27.57740020751953,
+        "R_AnklePitch": 13.788700103759766,
+        "R_ShoulderPitch": 13.788700103759766,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -3.631156
+      ]
+    },
+    {
+      "t": 2.7,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 13.441162109375,
+        "L_KneePitch": 26.88232421875,
+        "L_AnklePitch": 13.441162109375,
+        "L_ShoulderPitch": 13.441162109375,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 13.441162109375,
+        "R_KneePitch": 26.88232421875,
+        "R_AnklePitch": 13.441162109375,
+        "R_ShoulderPitch": 13.441162109375,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -3.451249
+      ]
+    },
+    {
+      "t": 2.725,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 13.084011077880854,
+        "L_KneePitch": 26.168022155761708,
+        "L_AnklePitch": 13.084011077880854,
+        "L_ShoulderPitch": 13.084011077880854,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 13.084011077880854,
+        "R_KneePitch": 26.168022155761708,
+        "R_AnklePitch": 13.084011077880854,
+        "R_ShoulderPitch": 13.084011077880854,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -3.271064
+      ]
+    },
+    {
+      "t": 2.75,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 12.718048095703121,
+        "L_KneePitch": 25.436096191406243,
+        "L_AnklePitch": 12.718048095703121,
+        "L_ShoulderPitch": 12.718048095703121,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 12.718048095703121,
+        "R_KneePitch": 25.436096191406243,
+        "R_AnklePitch": 12.718048095703121,
+        "R_ShoulderPitch": 12.718048095703121,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -3.091379
+      ]
+    },
+    {
+      "t": 2.775,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 12.344074249267575,
+        "L_KneePitch": 24.68814849853515,
+        "L_AnklePitch": 12.344074249267575,
+        "L_ShoulderPitch": 12.344074249267575,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 12.344074249267575,
+        "R_KneePitch": 24.68814849853515,
+        "R_AnklePitch": 12.344074249267575,
+        "R_ShoulderPitch": 12.344074249267575,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -2.912942
+      ]
+    },
+    {
+      "t": 2.8,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 11.962890625,
+        "L_KneePitch": 23.92578125,
+        "L_AnklePitch": 11.962890625,
+        "L_ShoulderPitch": 11.962890625,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 11.962890625,
+        "R_KneePitch": 23.92578125,
+        "R_AnklePitch": 11.962890625,
+        "R_ShoulderPitch": 11.962890625,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -2.736461
+      ]
+    },
+    {
+      "t": 2.825,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 11.575298309326172,
+        "L_KneePitch": 23.150596618652344,
+        "L_AnklePitch": 11.575298309326172,
+        "L_ShoulderPitch": 11.575298309326172,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 11.575298309326172,
+        "R_KneePitch": 23.150596618652344,
+        "R_AnklePitch": 11.575298309326172,
+        "R_ShoulderPitch": 11.575298309326172,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -2.562607
+      ]
+    },
+    {
+      "t": 2.85,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 11.18209838867187,
+        "L_KneePitch": 22.36419677734374,
+        "L_AnklePitch": 11.18209838867187,
+        "L_ShoulderPitch": 11.18209838867187,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 11.18209838867187,
+        "R_KneePitch": 22.36419677734374,
+        "R_AnklePitch": 11.18209838867187,
+        "R_ShoulderPitch": 11.18209838867187,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -2.39201
+      ]
+    },
+    {
+      "t": 2.875,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 10.784091949462889,
+        "L_KneePitch": 21.568183898925778,
+        "L_AnklePitch": 10.784091949462889,
+        "L_ShoulderPitch": 10.784091949462889,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 10.784091949462889,
+        "R_KneePitch": 21.568183898925778,
+        "R_AnklePitch": 10.784091949462889,
+        "R_ShoulderPitch": 10.784091949462889,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -2.225256
+      ]
+    },
+    {
+      "t": 2.9,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 10.382080078124998,
+        "L_KneePitch": 20.764160156249996,
+        "L_AnklePitch": 10.382080078124998,
+        "L_ShoulderPitch": 10.382080078124998,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 10.382080078124998,
+        "R_KneePitch": 20.764160156249996,
+        "R_AnklePitch": 10.382080078124998,
+        "R_ShoulderPitch": 10.382080078124998,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -2.062887
+      ]
+    },
+    {
+      "t": 2.925,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 9.976863861083984,
+        "L_KneePitch": 19.95372772216797,
+        "L_AnklePitch": 9.976863861083984,
+        "L_ShoulderPitch": 9.976863861083984,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 9.976863861083984,
+        "R_KneePitch": 19.95372772216797,
+        "R_AnklePitch": 9.976863861083984,
+        "R_ShoulderPitch": 9.976863861083984,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -1.905398
+      ]
+    },
+    {
+      "t": 2.95,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 9.569244384765625,
+        "L_KneePitch": 19.13848876953125,
+        "L_AnklePitch": 9.569244384765625,
+        "L_ShoulderPitch": 9.569244384765625,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 9.569244384765625,
+        "R_KneePitch": 19.13848876953125,
+        "R_AnklePitch": 9.569244384765625,
+        "R_ShoulderPitch": 9.569244384765625,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -1.753238
+      ]
+    },
+    {
+      "t": 2.975,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 9.160022735595698,
+        "L_KneePitch": 18.320045471191396,
+        "L_AnklePitch": 9.160022735595698,
+        "L_ShoulderPitch": 9.160022735595698,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 9.160022735595698,
+        "R_KneePitch": 18.320045471191396,
+        "R_AnklePitch": 9.160022735595698,
+        "R_ShoulderPitch": 9.160022735595698,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -1.606805
+      ]
+    },
+    {
+      "t": 3.0,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 8.749999999999996,
+        "L_KneePitch": 17.499999999999993,
+        "L_AnklePitch": 8.749999999999996,
+        "L_ShoulderPitch": 8.749999999999996,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 8.749999999999996,
+        "R_KneePitch": 17.499999999999993,
+        "R_AnklePitch": 8.749999999999996,
+        "R_ShoulderPitch": 8.749999999999996,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -1.46645
+      ]
+    },
+    {
+      "t": 3.025,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 8.339977264404295,
+        "L_KneePitch": 16.67995452880859,
+        "L_AnklePitch": 8.339977264404295,
+        "L_ShoulderPitch": 8.339977264404295,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 8.339977264404295,
+        "R_KneePitch": 16.67995452880859,
+        "R_AnklePitch": 8.339977264404295,
+        "R_ShoulderPitch": 8.339977264404295,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -1.332472
+      ]
+    },
+    {
+      "t": 3.05,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 7.930755615234375,
+        "L_KneePitch": 15.86151123046875,
+        "L_AnklePitch": 7.930755615234375,
+        "L_ShoulderPitch": 7.930755615234375,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 7.930755615234375,
+        "R_KneePitch": 15.86151123046875,
+        "R_AnklePitch": 7.930755615234375,
+        "R_ShoulderPitch": 7.930755615234375,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -1.205122
+      ]
+    },
+    {
+      "t": 3.075,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 7.523136138916017,
+        "L_KneePitch": 15.046272277832035,
+        "L_AnklePitch": 7.523136138916017,
+        "L_ShoulderPitch": 7.523136138916017,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 7.523136138916017,
+        "R_KneePitch": 15.046272277832035,
+        "R_AnklePitch": 7.523136138916017,
+        "R_ShoulderPitch": 7.523136138916017,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -1.084599
+      ]
+    },
+    {
+      "t": 3.1,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 7.1179199218749964,
+        "L_KneePitch": 14.235839843749993,
+        "L_AnklePitch": 7.1179199218749964,
+        "L_ShoulderPitch": 7.1179199218749964,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 7.1179199218749964,
+        "R_KneePitch": 14.235839843749993,
+        "R_AnklePitch": 7.1179199218749964,
+        "R_ShoulderPitch": 7.1179199218749964,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.971053
+      ]
+    },
+    {
+      "t": 3.125,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 6.715908050537106,
+        "L_KneePitch": 13.431816101074212,
+        "L_AnklePitch": 6.715908050537106,
+        "L_ShoulderPitch": 6.715908050537106,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 6.715908050537106,
+        "R_KneePitch": 13.431816101074212,
+        "R_AnklePitch": 6.715908050537106,
+        "R_ShoulderPitch": 6.715908050537106,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.864585
+      ]
+    },
+    {
+      "t": 3.15,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 6.317901611328123,
+        "L_KneePitch": 12.635803222656246,
+        "L_AnklePitch": 6.317901611328123,
+        "L_ShoulderPitch": 6.317901611328123,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 6.317901611328123,
+        "R_KneePitch": 12.635803222656246,
+        "R_AnklePitch": 6.317901611328123,
+        "R_ShoulderPitch": 6.317901611328123,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.765246
+      ]
+    },
+    {
+      "t": 3.175,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 5.924701690673828,
+        "L_KneePitch": 11.849403381347656,
+        "L_AnklePitch": 5.924701690673828,
+        "L_ShoulderPitch": 5.924701690673828,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 5.924701690673828,
+        "R_KneePitch": 11.849403381347656,
+        "R_AnklePitch": 5.924701690673828,
+        "R_ShoulderPitch": 5.924701690673828,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.673041
+      ]
+    },
+    {
+      "t": 3.2,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 5.537109375000002,
+        "L_KneePitch": 11.074218750000004,
+        "L_AnklePitch": 5.537109375000002,
+        "L_ShoulderPitch": 5.537109375000002,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 5.537109375000002,
+        "R_KneePitch": 11.074218750000004,
+        "R_AnklePitch": 5.537109375000002,
+        "R_ShoulderPitch": 5.537109375000002,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.587927
+      ]
+    },
+    {
+      "t": 3.225,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 5.155925750732417,
+        "L_KneePitch": 10.311851501464835,
+        "L_AnklePitch": 5.155925750732417,
+        "L_ShoulderPitch": 5.155925750732417,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 5.155925750732417,
+        "R_KneePitch": 10.311851501464835,
+        "R_AnklePitch": 5.155925750732417,
+        "R_ShoulderPitch": 5.155925750732417,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.509818
+      ]
+    },
+    {
+      "t": 3.25,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 4.781951904296872,
+        "L_KneePitch": 9.563903808593745,
+        "L_AnklePitch": 4.781951904296872,
+        "L_ShoulderPitch": 4.781951904296872,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 4.781951904296872,
+        "R_KneePitch": 9.563903808593745,
+        "R_AnklePitch": 4.781951904296872,
+        "R_ShoulderPitch": 4.781951904296872,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.438585
+      ]
+    },
+    {
+      "t": 3.275,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 4.415988922119139,
+        "L_KneePitch": 8.831977844238278,
+        "L_AnklePitch": 4.415988922119139,
+        "L_ShoulderPitch": 4.415988922119139,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 4.415988922119139,
+        "R_KneePitch": 8.831977844238278,
+        "R_AnklePitch": 4.415988922119139,
+        "R_ShoulderPitch": 4.415988922119139,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.374056
+      ]
+    },
+    {
+      "t": 3.3,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 4.058837890625,
+        "L_KneePitch": 8.11767578125,
+        "L_AnklePitch": 4.058837890625,
+        "L_ShoulderPitch": 4.058837890625,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 4.058837890625,
+        "R_KneePitch": 8.11767578125,
+        "R_AnklePitch": 4.058837890625,
+        "R_ShoulderPitch": 4.058837890625,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.316022
+      ]
+    },
+    {
+      "t": 3.325,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 3.7112998962402353,
+        "L_KneePitch": 7.4225997924804705,
+        "L_AnklePitch": 3.7112998962402353,
+        "L_ShoulderPitch": 3.7112998962402353,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 3.7112998962402353,
+        "R_KneePitch": 7.4225997924804705,
+        "R_AnklePitch": 3.7112998962402353,
+        "R_ShoulderPitch": 3.7112998962402353,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.264238
+      ]
+    },
+    {
+      "t": 3.35,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 3.374176025390622,
+        "L_KneePitch": 6.748352050781244,
+        "L_AnklePitch": 3.374176025390622,
+        "L_ShoulderPitch": 3.374176025390622,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 3.374176025390622,
+        "R_KneePitch": 6.748352050781244,
+        "R_AnklePitch": 3.374176025390622,
+        "R_ShoulderPitch": 3.374176025390622,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.218426
+      ]
+    },
+    {
+      "t": 3.375,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 3.048267364501951,
+        "L_KneePitch": 6.096534729003902,
+        "L_AnklePitch": 3.048267364501951,
+        "L_ShoulderPitch": 3.048267364501951,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 3.048267364501951,
+        "R_KneePitch": 6.096534729003902,
+        "R_AnklePitch": 3.048267364501951,
+        "R_ShoulderPitch": 3.048267364501951,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.178278
+      ]
+    },
+    {
+      "t": 3.4,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 2.734374999999999,
+        "L_KneePitch": 5.468749999999998,
+        "L_AnklePitch": 2.734374999999999,
+        "L_ShoulderPitch": 2.734374999999999,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 2.734374999999999,
+        "R_KneePitch": 5.468749999999998,
+        "R_AnklePitch": 2.734374999999999,
+        "R_ShoulderPitch": 2.734374999999999,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.143459
+      ]
+    },
+    {
+      "t": 3.425,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 2.4333000183105415,
+        "L_KneePitch": 4.866600036621083,
+        "L_AnklePitch": 2.4333000183105415,
+        "L_ShoulderPitch": 2.4333000183105415,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 2.4333000183105415,
+        "R_KneePitch": 4.866600036621083,
+        "R_AnklePitch": 2.4333000183105415,
+        "R_ShoulderPitch": 2.4333000183105415,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.113611
+      ]
+    },
+    {
+      "t": 3.45,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 2.1458435058593763,
+        "L_KneePitch": 4.291687011718753,
+        "L_AnklePitch": 2.1458435058593763,
+        "L_ShoulderPitch": 2.1458435058593763,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 2.1458435058593763,
+        "R_KneePitch": 4.291687011718753,
+        "R_AnklePitch": 2.1458435058593763,
+        "R_ShoulderPitch": 2.1458435058593763,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.088357
+      ]
+    },
+    {
+      "t": 3.475,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 1.8728065490722676,
+        "L_KneePitch": 3.7456130981445352,
+        "L_AnklePitch": 1.8728065490722676,
+        "L_ShoulderPitch": 1.8728065490722676,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 1.8728065490722676,
+        "R_KneePitch": 3.7456130981445352,
+        "R_AnklePitch": 1.8728065490722676,
+        "R_ShoulderPitch": 1.8728065490722676,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.067304
+      ]
+    },
+    {
+      "t": 3.5,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 1.6149902343749982,
+        "L_KneePitch": 3.2299804687499964,
+        "L_AnklePitch": 1.6149902343749982,
+        "L_ShoulderPitch": 1.6149902343749982,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 1.6149902343749982,
+        "R_KneePitch": 3.2299804687499964,
+        "R_AnklePitch": 1.6149902343749982,
+        "R_ShoulderPitch": 1.6149902343749982,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.05005
+      ]
+    },
+    {
+      "t": 3.525,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 1.3731956481933585,
+        "L_KneePitch": 2.746391296386717,
+        "L_AnklePitch": 1.3731956481933585,
+        "L_ShoulderPitch": 1.3731956481933585,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 1.3731956481933585,
+        "R_KneePitch": 2.746391296386717,
+        "R_AnklePitch": 1.3731956481933585,
+        "R_ShoulderPitch": 1.3731956481933585,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.036186
+      ]
+    },
+    {
+      "t": 3.55,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 1.1482238769531212,
+        "L_KneePitch": 2.2964477539062425,
+        "L_AnklePitch": 1.1482238769531212,
+        "L_ShoulderPitch": 1.1482238769531212,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 1.1482238769531212,
+        "R_KneePitch": 2.2964477539062425,
+        "R_AnklePitch": 1.1482238769531212,
+        "R_ShoulderPitch": 1.1482238769531212,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.025301
+      ]
+    },
+    {
+      "t": 3.575,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 0.9408760070800789,
+        "L_KneePitch": 1.8817520141601578,
+        "L_AnklePitch": 0.9408760070800789,
+        "L_ShoulderPitch": 0.9408760070800789,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 0.9408760070800789,
+        "R_KneePitch": 1.8817520141601578,
+        "R_AnklePitch": 0.9408760070800789,
+        "R_ShoulderPitch": 0.9408760070800789,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.016988
+      ]
+    },
+    {
+      "t": 3.6,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 0.7519531250000012,
+        "L_KneePitch": 1.5039062500000024,
+        "L_AnklePitch": 0.7519531250000012,
+        "L_ShoulderPitch": 0.7519531250000012,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 0.7519531250000012,
+        "R_KneePitch": 1.5039062500000024,
+        "R_AnklePitch": 0.7519531250000012,
+        "R_ShoulderPitch": 0.7519531250000012,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.010851
+      ]
+    },
+    {
+      "t": 3.625,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 0.5822563171386707,
+        "L_KneePitch": 1.1645126342773413,
+        "L_AnklePitch": 0.5822563171386707,
+        "L_ShoulderPitch": 0.5822563171386707,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 0.5822563171386707,
+        "R_KneePitch": 1.1645126342773413,
+        "R_AnklePitch": 0.5822563171386707,
+        "R_ShoulderPitch": 0.5822563171386707,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.006506
+      ]
+    },
+    {
+      "t": 3.65,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 0.43258666992187456,
+        "L_KneePitch": 0.8651733398437491,
+        "L_AnklePitch": 0.43258666992187456,
+        "L_ShoulderPitch": 0.43258666992187456,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 0.43258666992187456,
+        "R_KneePitch": 0.8651733398437491,
+        "R_AnklePitch": 0.43258666992187456,
+        "R_ShoulderPitch": 0.43258666992187456,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.003591
+      ]
+    },
+    {
+      "t": 3.675,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 0.3037452697753885,
+        "L_KneePitch": 0.607490539550777,
+        "L_AnklePitch": 0.3037452697753885,
+        "L_ShoulderPitch": 0.3037452697753885,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 0.3037452697753885,
+        "R_KneePitch": 0.607490539550777,
+        "R_AnklePitch": 0.3037452697753885,
+        "R_ShoulderPitch": 0.3037452697753885,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.001771
+      ]
+    },
+    {
+      "t": 3.7,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 0.19653320312500033,
+        "L_KneePitch": 0.39306640625000067,
+        "L_AnklePitch": 0.19653320312500033,
+        "L_ShoulderPitch": 0.19653320312500033,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 0.19653320312500033,
+        "R_KneePitch": 0.39306640625000067,
+        "R_AnklePitch": 0.19653320312500033,
+        "R_ShoulderPitch": 0.19653320312500033,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.000741
+      ]
+    },
+    {
+      "t": 3.725,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 0.11175155639648492,
+        "L_KneePitch": 0.22350311279296983,
+        "L_AnklePitch": 0.11175155639648492,
+        "L_ShoulderPitch": 0.11175155639648492,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 0.11175155639648492,
+        "R_KneePitch": 0.22350311279296983,
+        "R_AnklePitch": 0.11175155639648492,
+        "R_ShoulderPitch": 0.11175155639648492,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -0.00024
+      ]
+    },
+    {
+      "t": 3.75,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 0.050201416015624646,
+        "L_KneePitch": 0.10040283203124929,
+        "L_AnklePitch": 0.050201416015624646,
+        "L_ShoulderPitch": 0.050201416015624646,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 0.050201416015624646,
+        "R_KneePitch": 0.10040283203124929,
+        "R_AnklePitch": 0.050201416015624646,
+        "R_ShoulderPitch": 0.050201416015624646,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -4.8e-05
+      ]
+    },
+    {
+      "t": 3.775,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 0.012683868408203035,
+        "L_KneePitch": 0.02536773681640607,
+        "L_AnklePitch": 0.012683868408203035,
+        "L_ShoulderPitch": 0.012683868408203035,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 0.012683868408203035,
+        "R_KneePitch": 0.02536773681640607,
+        "R_AnklePitch": 0.012683868408203035,
+        "R_ShoulderPitch": 0.012683868408203035,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        -3e-06
+      ]
+    },
+    {
+      "t": 3.8,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 0.0,
+        "L_KneePitch": 0,
+        "L_AnklePitch": 0.0,
+        "L_ShoulderPitch": 0.0,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 0.0,
+        "R_KneePitch": 0,
+        "R_AnklePitch": 0.0,
+        "R_ShoulderPitch": 0.0,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        0.0
+      ]
+    }
+  ]
+}

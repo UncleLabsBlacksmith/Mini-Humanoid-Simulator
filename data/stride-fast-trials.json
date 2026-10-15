@@ -1,0 +1,458 @@
+[
+  {
+    "p": {
+      "stride": 16,
+      "period": 0.65,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 6,
+      "rollPhase": 0.3,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 3,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    },
+    "steps": {
+      "L": {
+        "steps": 7,
+        "clearance": 0.010282785946464396
+      },
+      "R": {
+        "steps": 6,
+        "clearance": -0.004563832648541329
+      }
+    },
+    "distance": 0.08517256937921047,
+    "tilt": 12.056482944584124,
+    "fall": null
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 0.65,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 6,
+      "rollPhase": 0.45,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 3,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    },
+    "steps": {
+      "L": {
+        "steps": 2,
+        "clearance": -0.0015979902639663007
+      },
+      "R": {
+        "steps": 2,
+        "clearance": -0.0018271252679784161
+      }
+    },
+    "distance": 0.019320989958941936,
+    "tilt": 22.055069025363355,
+    "fall": null
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 0.65,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 6,
+      "rollPhase": 0.6,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 3,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    },
+    "steps": {
+      "L": {
+        "steps": 2,
+        "clearance": -0.0030375893284962444
+      },
+      "R": {
+        "steps": 2,
+        "clearance": -0.0012653884923933337
+      }
+    },
+    "distance": 0.015307582914829254,
+    "tilt": 14.963661118676873,
+    "fall": null
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 0.65,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 9,
+      "rollPhase": 0.3,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 3,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    },
+    "steps": {
+      "L": {
+        "steps": 6,
+        "clearance": 0.0071182030082228565
+      },
+      "R": {
+        "steps": 8,
+        "clearance": -0.004289481997741894
+      }
+    },
+    "distance": 0.12843994610011578,
+    "tilt": 16.517627185683125,
+    "fall": null
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 0.65,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 9,
+      "rollPhase": 0.45,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 3,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    },
+    "steps": {
+      "L": {
+        "steps": 2,
+        "clearance": -0.004621103615657235
+      },
+      "R": {
+        "steps": 5,
+        "clearance": -0.0018058128379019184
+      }
+    },
+    "distance": 0.09016650728881359,
+    "tilt": 20.358429840829242,
+    "fall": null
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 0.65,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 9,
+      "rollPhase": 0.6,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 3,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    },
+    "steps": {
+      "L": {
+        "steps": 0,
+        "clearance": -0.0028115978775914985
+      },
+      "R": {
+        "steps": 0,
+        "clearance": 0.04508205457731408
+      }
+    },
+    "distance": 0.008398069068789482,
+    "tilt": 49.20008444320772,
+    "fall": {
+      "time": 2.0208333333333335,
+      "reason": "body_ground_contact",
+      "links": [
+        "L_Forearm"
+      ]
+    }
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 1,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 6,
+      "rollPhase": 0.3,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 3,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    },
+    "steps": {
+      "L": {
+        "steps": 0,
+        "clearance": -0.003262391867375973
+      },
+      "R": {
+        "steps": 0,
+        "clearance": -0.002075316123054803
+      }
+    },
+    "distance": 0.004932129755616188,
+    "tilt": 4.851947665512199,
+    "fall": null
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 1,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 6,
+      "rollPhase": 0.45,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 3,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    },
+    "steps": {
+      "L": {
+        "steps": 0,
+        "clearance": -0.004145197983801016
+      },
+      "R": {
+        "steps": 0,
+        "clearance": 0.0011435430776058492
+      }
+    },
+    "distance": -0.012632174417376518,
+    "tilt": 5.537636864904127,
+    "fall": null
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 1,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 6,
+      "rollPhase": 0.6,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 3,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    },
+    "steps": {
+      "L": {
+        "steps": 0,
+        "clearance": -0.0007601388957403296
+      },
+      "R": {
+        "steps": 0,
+        "clearance": 4.704811249617302e-8
+      }
+    },
+    "distance": -0.0008234446868300438,
+    "tilt": 6.4001628159936805,
+    "fall": null
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 1,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 9,
+      "rollPhase": 0.3,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 3,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    },
+    "steps": {
+      "L": {
+        "steps": 0,
+        "clearance": -0.0026506282141536552
+      },
+      "R": {
+        "steps": 0,
+        "clearance": 0.06739448648282023
+      }
+    },
+    "distance": -0.00817771628499031,
+    "tilt": 66.5196104300679,
+    "fall": {
+      "time": 2.3291666666666666,
+      "reason": "body_ground_contact",
+      "links": [
+        "L_Forearm"
+      ]
+    }
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 1,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 9,
+      "rollPhase": 0.45,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 3,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    },
+    "steps": {
+      "L": {
+        "steps": 0,
+        "clearance": -0.002198463978690224
+      },
+      "R": {
+        "steps": 0,
+        "clearance": 0.06929993311478659
+      }
+    },
+    "distance": -0.0015186183154582977,
+    "tilt": 68.0454186584913,
+    "fall": {
+      "time": 2.2,
+      "reason": "body_ground_contact",
+      "links": [
+        "L_Forearm"
+      ]
+    }
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 1,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 9,
+      "rollPhase": 0.6,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 3,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    },
+    "steps": {
+      "L": {
+        "steps": 0,
+        "clearance": 0.058549543547815566
+      },
+      "R": {
+        "steps": 0,
+        "clearance": -0.0022786153101199136
+      }
+    },
+    "distance": -0.0012150630354881287,
+    "tilt": 61.18076708164096,
+    "fall": {
+      "time": 3.9875,
+      "reason": "body_ground_contact",
+      "links": [
+        "R_Forearm"
+      ]
+    }
+  }
+]

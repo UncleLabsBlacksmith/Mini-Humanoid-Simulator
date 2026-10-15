@@ -1,0 +1,24 @@
+{
+  "model": {
+    "id": "astra-v2",
+    "name": "ASTRA V2 \u00b7 PRIMER-inspired",
+    "height_mm": 298,
+    "joints": 16,
+    "links": 17
+  },
+  "elapsed_s": 10,
+  "distance_m": 0.17811256740242243,
+  "gait": {
+    "L": {
+      "steps": 11,
+      "clearance": -0.0021787829177714636
+    },
+    "R": {
+      "steps": 12,
+      "clearance": -0.0030547555982597743
+    }
+  },
+  "fall": null,
+  "trace_samples": 100,
+  "all_trace_samples_match_headless_with_tolerance": 1e-10
+}

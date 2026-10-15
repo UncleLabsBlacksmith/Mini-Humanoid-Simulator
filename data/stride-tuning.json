@@ -1,0 +1,962 @@
+[
+  {
+    "p": {
+      "stride": 16,
+      "period": 0.5,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 7.5,
+      "rollPhase": 0.2,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 3,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    },
+    "gait": {
+      "L": {
+        "steps": 36,
+        "clearance": 0.004247089485207391
+      },
+      "R": {
+        "steps": 36,
+        "clearance": -0.0019454199482696194
+      }
+    },
+    "lateSteps": 40,
+    "distance": 1.2484724055975676,
+    "late": 0.6863527297973633,
+    "maxSide": 0.08257022596421675,
+    "tilt": 11.928211483458849,
+    "fall": null,
+    "score": 1.1796093384945252
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 0.5,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 6,
+      "rollPhase": 0.3,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 3,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    },
+    "gait": {
+      "L": {
+        "steps": 27,
+        "clearance": 0.0010473532280363962
+      },
+      "R": {
+        "steps": 22,
+        "clearance": -0.0016889742766918112
+      }
+    },
+    "lateSteps": 40,
+    "distance": 0.7711048256605864,
+    "late": 0.723629929125309,
+    "maxSide": 0.07785528337611328,
+    "tilt": 14.647567533756671,
+    "fall": null,
+    "score": 1.0760337351354283
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 0.5,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 7.5,
+      "rollPhase": 0.2,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 0.5,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    },
+    "gait": {
+      "L": {
+        "steps": 36,
+        "clearance": 0.009729608402126083
+      },
+      "R": {
+        "steps": 36,
+        "clearance": -0.0026820655406498695
+      }
+    },
+    "lateSteps": 40,
+    "distance": 1.1263089906424284,
+    "late": 0.6141149401664734,
+    "maxSide": 0.12033151901217069,
+    "tilt": 11.242449532409717,
+    "fall": null,
+    "score": 1.0518418778531164
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 0.5,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 7.5,
+      "rollPhase": 0.3,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 3,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    },
+    "gait": {
+      "L": {
+        "steps": 29,
+        "clearance": 0.0026119078548052857
+      },
+      "R": {
+        "steps": 33,
+        "clearance": -0.0015095883320518713
+      }
+    },
+    "lateSteps": 30,
+    "distance": 1.010685397312045,
+    "late": 0.491848886013031,
+    "maxSide": 0.111648295884474,
+    "tilt": 15.761758924093504,
+    "fall": null,
+    "score": 0.8592303572644074
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 0.5,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 6,
+      "rollPhase": 0.2,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 3,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    },
+    "gait": {
+      "L": {
+        "steps": 25,
+        "clearance": -0.0025599845597620158
+      },
+      "R": {
+        "steps": 25,
+        "clearance": -0.0019155503130273976
+      }
+    },
+    "lateSteps": 19,
+    "distance": 0.7906547915190458,
+    "late": 0.248238205909729,
+    "maxSide": 0.12266433779619633,
+    "tilt": 10.163627043627136,
+    "fall": null,
+    "score": 0.5001024744673446
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 0.5,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 7.5,
+      "rollPhase": 0.3,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 0.5,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    },
+    "gait": {
+      "L": {
+        "steps": 25,
+        "clearance": 0.006431152208351769
+      },
+      "R": {
+        "steps": 22,
+        "clearance": -0.0014280728609483637
+      }
+    },
+    "lateSteps": 26,
+    "distance": 0.3386023174971342,
+    "late": 0.13544528186321259,
+    "maxSide": 0.10329864846171614,
+    "tilt": 12.565099278347555,
+    "fall": null,
+    "score": 0.2893766528814948
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 0.6,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 7.5,
+      "rollPhase": 0.3,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 0.5,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    },
+    "gait": {
+      "L": {
+        "steps": 14,
+        "clearance": -0.0012336752084912903
+      },
+      "R": {
+        "steps": 14,
+        "clearance": -0.002492367290522199
+      }
+    },
+    "lateSteps": 14,
+    "distance": 0.15523491613566875,
+    "late": 0.06355670094490051,
+    "maxSide": 0.13301965280266917,
+    "tilt": 14.172115967552312,
+    "fall": null,
+    "score": 0.09961734938426654
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 0.7,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 7.5,
+      "rollPhase": 0.3,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 3,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    },
+    "gait": {
+      "L": {
+        "steps": 14,
+        "clearance": -0.001338062851191965
+      },
+      "R": {
+        "steps": 15,
+        "clearance": -0.0034097575982230885
+      }
+    },
+    "lateSteps": 14,
+    "distance": 0.177556736394763,
+    "late": 0.052930109202861786,
+    "maxSide": 0.17902880751474895,
+    "tilt": 18.595305085957882,
+    "fall": null,
+    "score": 0.07268272636391619
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 0.6,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 6,
+      "rollPhase": 0.2,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 3,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    },
+    "gait": {
+      "L": {
+        "steps": 10,
+        "clearance": -0.0019087404408583905
+      },
+      "R": {
+        "steps": 10,
+        "clearance": -0.0028962673247851234
+      }
+    },
+    "lateSteps": 0,
+    "distance": 0.27915538661181927,
+    "late": -0.0033937394618988037,
+    "maxSide": 0.06671659531791176,
+    "tilt": 9.982172362657982,
+    "fall": null,
+    "score": 0.0469945788626911
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 0.7,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 6,
+      "rollPhase": 0.3,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 0.5,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    },
+    "gait": {
+      "L": {
+        "steps": 4,
+        "clearance": -0.0023592595780922918
+      },
+      "R": {
+        "steps": 6,
+        "clearance": -0.003165276564060536
+      }
+    },
+    "lateSteps": 5,
+    "distance": 0.013160954229533672,
+    "late": 0.026714946143329144,
+    "maxSide": 0.05138205680472455,
+    "tilt": 14.541876724139456,
+    "fall": null,
+    "score": 0.024972204009826967
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 0.6,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 7.5,
+      "rollPhase": 0.3,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 3,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    },
+    "gait": {
+      "L": {
+        "steps": 11,
+        "clearance": -0.0033704450366118313
+      },
+      "R": {
+        "steps": 16,
+        "clearance": 0.007888288182993114
+      }
+    },
+    "lateSteps": 8,
+    "distance": 0.11960077844560146,
+    "late": 0.0002232566475868225,
+    "maxSide": 0.09482258903959785,
+    "tilt": 23.41664803393775,
+    "fall": null,
+    "score": 0.020692195661468342
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 0.5,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 6,
+      "rollPhase": 0.3,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 0.5,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    },
+    "gait": {
+      "L": {
+        "steps": 22,
+        "clearance": -0.00032977895279732994
+      },
+      "R": {
+        "steps": 4,
+        "clearance": -0.003140005951306944
+      }
+    },
+    "lateSteps": 16,
+    "distance": 0.021139764226973057,
+    "late": 0.004795124754309654,
+    "maxSide": 0.13805622424572314,
+    "tilt": 9.503849543728876,
+    "fall": null,
+    "score": 0.006108941899540005
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 0.6,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 7.5,
+      "rollPhase": 0.2,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 3,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    },
+    "gait": {
+      "L": {
+        "steps": 4,
+        "clearance": -0.0017157807816904
+      },
+      "R": {
+        "steps": 3,
+        "clearance": -0.0031491149555468723
+      }
+    },
+    "lateSteps": 0,
+    "distance": 0.06167592667043209,
+    "late": 0.010179080069065094,
+    "maxSide": 0.05550701563098644,
+    "tilt": 14.700268990426508,
+    "fall": null,
+    "score": 0.0009283502547015009
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 0.7,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 6,
+      "rollPhase": 0.3,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 3,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    },
+    "gait": {
+      "L": {
+        "steps": 3,
+        "clearance": -0.003510094324189361
+      },
+      "R": {
+        "steps": 3,
+        "clearance": -0.000845768296959537
+      }
+    },
+    "lateSteps": 4,
+    "distance": 0.007672101259231567,
+    "late": 0.010610105469822884,
+    "maxSide": 0.06123635712121038,
+    "tilt": 14.07009482888289,
+    "fall": null,
+    "score": -0.0017064427130128353
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 0.5,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 6,
+      "rollPhase": 0.2,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 0.5,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    },
+    "gait": {
+      "L": {
+        "steps": 0,
+        "clearance": -0.002096867988351868
+      },
+      "R": {
+        "steps": 1,
+        "clearance": -0.0014465357089014502
+      }
+    },
+    "lateSteps": 0,
+    "distance": 0.024445530027151108,
+    "late": 0.00874892994761467,
+    "maxSide": 0.03842059894635683,
+    "tilt": 4.730480562515973,
+    "fall": null,
+    "score": -0.003127710517418416
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 0.6,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 6,
+      "rollPhase": 0.3,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 3,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    },
+    "gait": {
+      "L": {
+        "steps": 1,
+        "clearance": -0.0014710634404782388
+      },
+      "R": {
+        "steps": 3,
+        "clearance": -0.0032581672511728596
+      }
+    },
+    "lateSteps": 0,
+    "distance": 0.03420930355787277,
+    "late": 0.00040966644883155823,
+    "maxSide": 0.04916946309673368,
+    "tilt": 16.360002017680454,
+    "fall": null,
+    "score": -0.01391227403217345
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 0.6,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 6,
+      "rollPhase": 0.2,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 0.5,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    },
+    "gait": {
+      "L": {
+        "steps": 0,
+        "clearance": -0.0011840189726047418
+      },
+      "R": {
+        "steps": 0,
+        "clearance": -0.0028412248020861647
+      }
+    },
+    "lateSteps": 0,
+    "distance": -0.01029055006802082,
+    "late": 0.004253901541233063,
+    "maxSide": 0.04615690310151533,
+    "tilt": 4.730480562515973,
+    "fall": null,
+    "score": -0.021911715029930848
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 0.7,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 7.5,
+      "rollPhase": 0.2,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 0.5,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    },
+    "gait": {
+      "L": {
+        "steps": 1,
+        "clearance": -0.003243584612708475
+      },
+      "R": {
+        "steps": 0,
+        "clearance": -0.0024399180418872637
+      }
+    },
+    "lateSteps": 0,
+    "distance": 0.004509393125772476,
+    "late": 0.0007652351632714272,
+    "maxSide": 0.0658874446959659,
+    "tilt": 14.242498215208679,
+    "fall": null,
+    "score": -0.03082566924697978
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 0.7,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 6,
+      "rollPhase": 0.2,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 0.5,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    },
+    "gait": {
+      "L": {
+        "steps": 0,
+        "clearance": -0.0027877099371899014
+      },
+      "R": {
+        "steps": 0,
+        "clearance": -0.002203759727583271
+      }
+    },
+    "lateSteps": 0,
+    "distance": -0.01746482588350773,
+    "late": -0.0036974232643842697,
+    "maxSide": 0.05372237301995848,
+    "tilt": 9.419940804555807,
+    "fall": null,
+    "score": -0.035798057539415826
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 0.6,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 7.5,
+      "rollPhase": 0.2,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 0.5,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    },
+    "gait": {
+      "L": {
+        "steps": 2,
+        "clearance": -0.0017107928742629286
+      },
+      "R": {
+        "steps": 4,
+        "clearance": -0.00081243653862699
+      }
+    },
+    "lateSteps": 3,
+    "distance": -0.004467558115720749,
+    "late": -0.023253907449543476,
+    "maxSide": 0.05151067013093644,
+    "tilt": 11.742969887390695,
+    "fall": null,
+    "score": -0.03834950994972792
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 0.7,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 7.5,
+      "rollPhase": 0.2,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 3,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    },
+    "gait": {
+      "L": {
+        "steps": 3,
+        "clearance": -0.002566864119654705
+      },
+      "R": {
+        "steps": 2,
+        "clearance": -0.0029188797982665007
+      }
+    },
+    "lateSteps": 0,
+    "distance": 0.029437970370054245,
+    "late": -0.012338688597083092,
+    "maxSide": 0.07182393334845327,
+    "tilt": 14.685370739423941,
+    "fall": null,
+    "score": -0.039419264160293455
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 0.7,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 7.5,
+      "rollPhase": 0.3,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 0.5,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    },
+    "gait": {
+      "L": {
+        "steps": 6,
+        "clearance": -0.002935101116573857
+      },
+      "R": {
+        "steps": 7,
+        "clearance": -0.0026119844938873524
+      }
+    },
+    "lateSteps": 2,
+    "distance": 0.09037634544074535,
+    "late": -0.0330166220664978,
+    "maxSide": 0.11265129257579949,
+    "tilt": 25.19386249753533,
+    "fall": null,
+    "score": -0.05422936472217395
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 0.7,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 6,
+      "rollPhase": 0.2,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 3,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    },
+    "gait": {
+      "L": {
+        "steps": 1,
+        "clearance": -0.00224075109538302
+      },
+      "R": {
+        "steps": 0,
+        "clearance": -0.002644076174231187
+      }
+    },
+    "lateSteps": 0,
+    "distance": -0.02595231495797634,
+    "late": -0.01691126637160778,
+    "maxSide": 0.06421380041737985,
+    "tilt": 5.124125550506368,
+    "fall": null,
+    "score": -0.056803861067690614
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 0.6,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 6,
+      "rollPhase": 0.3,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 0.5,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    },
+    "gait": {
+      "L": {
+        "steps": 5,
+        "clearance": -0.003651221249436905
+      },
+      "R": {
+        "steps": 8,
+        "clearance": -0.0018883943048227936
+      }
+    },
+    "lateSteps": 1,
+    "distance": 0.00109089445322752,
+    "late": -0.04175672214478254,
+    "maxSide": 0.13492411067368928,
+    "tilt": 13.273189250694834,
+    "fall": null,
+    "score": -0.10489150914565892
+  }
+]

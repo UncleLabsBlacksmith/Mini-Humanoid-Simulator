@@ -1,0 +1,758 @@
+[
+  {
+    "fall": null,
+    "elapsed": 10,
+    "distance": 0.32983869407325983,
+    "late": 0.24664076417684555,
+    "steps": {
+      "L": {
+        "steps": 15,
+        "clearance": -0.003746207375446276
+      },
+      "R": {
+        "steps": 14,
+        "clearance": -0.0012756359758817545
+      }
+    },
+    "lateSteps": 20,
+    "peak": 20.61201643844259,
+    "p": {
+      "period": 0.5,
+      "roll": 8,
+      "rollPhase": 0.5
+    },
+    "score": 0.5401590761616826
+  },
+  {
+    "fall": null,
+    "elapsed": 10,
+    "distance": 0.28915876243263483,
+    "late": 0.16240638494491577,
+    "steps": {
+      "L": {
+        "steps": 8,
+        "clearance": 0.0008872409940544335
+      },
+      "R": {
+        "steps": 8,
+        "clearance": -0.006216675198518255
+      }
+    },
+    "lateSteps": 10,
+    "peak": 11.173837175980136,
+    "p": {
+      "period": 0.5,
+      "roll": 4,
+      "rollPhase": 0.2
+    },
+    "score": 0.4183619549050927
+  },
+  {
+    "fall": null,
+    "elapsed": 10,
+    "distance": 0.17811256740242243,
+    "late": 0.169441694393754,
+    "steps": {
+      "L": {
+        "steps": 11,
+        "clearance": -0.0021787829177714636
+      },
+      "R": {
+        "steps": 12,
+        "clearance": -0.0030547555982597743
+      }
+    },
+    "lateSteps": 20,
+    "peak": 14.638938987668345,
+    "p": {
+      "period": 0.5,
+      "roll": 4,
+      "rollPhase": 0.5
+    },
+    "score": 0.33183341459929944
+  },
+  {
+    "fall": null,
+    "elapsed": 10,
+    "distance": 0.1596586862578988,
+    "late": 0.15897907968610525,
+    "steps": {
+      "L": {
+        "steps": 7,
+        "clearance": -0.006936836596575444
+      },
+      "R": {
+        "steps": 7,
+        "clearance": 0.0020248942323977392
+      }
+    },
+    "lateSteps": 13,
+    "peak": 13.359093585309713,
+    "p": {
+      "period": 0.8,
+      "roll": 4,
+      "rollPhase": 0.2
+    },
+    "score": 0.2811482261009514
+  },
+  {
+    "fall": null,
+    "elapsed": 10,
+    "distance": 0.01821252703666687,
+    "late": 0.019402391277253628,
+    "steps": {
+      "L": {
+        "steps": 0,
+        "clearance": -0.004245844445887624
+      },
+      "R": {
+        "steps": 0,
+        "clearance": -0.0015079287982848293
+      }
+    },
+    "lateSteps": 0,
+    "peak": 7.412601600558713,
+    "p": {
+      "period": 0.5,
+      "roll": 4,
+      "rollPhase": 0.75
+    },
+    "score": 0.027913722675293684
+  },
+  {
+    "fall": null,
+    "elapsed": 10,
+    "distance": 0.003678889013826847,
+    "late": 0.0006453460082411766,
+    "steps": {
+      "L": {
+        "steps": 0,
+        "clearance": -0.001992174453522462
+      },
+      "R": {
+        "steps": 0,
+        "clearance": -0.004001310063740698
+      }
+    },
+    "lateSteps": 0,
+    "peak": 5.334913410990241,
+    "p": {
+      "period": 0.8,
+      "roll": 4,
+      "rollPhase": 0.75
+    },
+    "score": 0.004001562017947435
+  },
+  {
+    "fall": null,
+    "elapsed": 10,
+    "distance": 0.003330675885081291,
+    "late": -0.007134708110243082,
+    "steps": {
+      "L": {
+        "steps": 0,
+        "clearance": -0.004286235094425016
+      },
+      "R": {
+        "steps": 0,
+        "clearance": -0.0019370719292354024
+      }
+    },
+    "lateSteps": 0,
+    "peak": 6.652971577044254,
+    "p": {
+      "period": 1.2,
+      "roll": 8,
+      "rollPhase": 0.75
+    },
+    "score": -0.00023667817004024982
+  },
+  {
+    "fall": null,
+    "elapsed": 10,
+    "distance": -0.004737046547234058,
+    "late": -0.010116779245436192,
+    "steps": {
+      "L": {
+        "steps": 0,
+        "clearance": -0.003019615609027859
+      },
+      "R": {
+        "steps": 0,
+        "clearance": -0.00193783867447931
+      }
+    },
+    "lateSteps": 0,
+    "peak": 5.372359182420353,
+    "p": {
+      "period": 1.2,
+      "roll": 4,
+      "rollPhase": 0.75
+    },
+    "score": -0.009795436169952154
+  },
+  {
+    "fall": null,
+    "elapsed": 10,
+    "distance": -0.008896219544112682,
+    "late": -0.013918548822402954,
+    "steps": {
+      "L": {
+        "steps": 0,
+        "clearance": -0.0028854356186639174
+      },
+      "R": {
+        "steps": 0,
+        "clearance": -0.0038310061280506895
+      }
+    },
+    "lateSteps": 0,
+    "peak": 6.2977971898291205,
+    "p": {
+      "period": 1.2,
+      "roll": 4,
+      "rollPhase": 0.5
+    },
+    "score": -0.01585549395531416
+  },
+  {
+    "fall": {
+      "time": 1.8875,
+      "reason": "body_ground_contact",
+      "links": [
+        "R_Forearm"
+      ]
+    },
+    "elapsed": 1.8875,
+    "distance": -0.02827549632638693,
+    "late": -0.02827549632638693,
+    "steps": {
+      "L": {
+        "steps": 0,
+        "clearance": 0.059278208451631335
+      },
+      "R": {
+        "steps": 0,
+        "clearance": -0.004618194546161809
+      }
+    },
+    "lateSteps": 0,
+    "peak": 52.62071926631547,
+    "p": {
+      "period": 0.5,
+      "roll": 8,
+      "rollPhase": 0.2
+    },
+    "score": -100
+  },
+  {
+    "fall": {
+      "time": 2.075,
+      "reason": "body_ground_contact",
+      "links": [
+        "Torso"
+      ]
+    },
+    "elapsed": 2.075,
+    "distance": -0.28292965795844793,
+    "late": -0.28292965795844793,
+    "steps": {
+      "L": {
+        "steps": 0,
+        "clearance": 0.0007081074391934034
+      },
+      "R": {
+        "steps": 1,
+        "clearance": 0.00045351921110117766
+      }
+    },
+    "lateSteps": 1,
+    "peak": 79.46020835243552,
+    "p": {
+      "period": 0.5,
+      "roll": 8,
+      "rollPhase": 0.75
+    },
+    "score": -100
+  },
+  {
+    "fall": {
+      "time": 1.7291666666666667,
+      "reason": "body_ground_contact",
+      "links": [
+        "R_Forearm"
+      ]
+    },
+    "elapsed": 1.7291666666666667,
+    "distance": -0.0023286761716008186,
+    "late": -0.0023286761716008186,
+    "steps": {
+      "L": {
+        "steps": 0,
+        "clearance": 0.04484594707207254
+      },
+      "R": {
+        "steps": 1,
+        "clearance": -0.003913177685721345
+      }
+    },
+    "lateSteps": 1,
+    "peak": 45.05504222801492,
+    "p": {
+      "period": 0.5,
+      "roll": 12,
+      "rollPhase": 0.2
+    },
+    "score": -100
+  },
+  {
+    "fall": {
+      "time": 1.5833333333333333,
+      "reason": "body_ground_contact",
+      "links": [
+        "R_Forearm"
+      ]
+    },
+    "elapsed": 1.5833333333333333,
+    "distance": -0.01246963907033205,
+    "late": -0.01246963907033205,
+    "steps": {
+      "L": {
+        "steps": 0,
+        "clearance": 0.05159432004593922
+      },
+      "R": {
+        "steps": 0,
+        "clearance": -0.004560926756871621
+      }
+    },
+    "lateSteps": 0,
+    "peak": 46.97751166937875,
+    "p": {
+      "period": 0.5,
+      "roll": 12,
+      "rollPhase": 0.5
+    },
+    "score": -100
+  },
+  {
+    "fall": {
+      "time": 1.6958333333333333,
+      "reason": "body_ground_contact",
+      "links": [
+        "L_Forearm"
+      ]
+    },
+    "elapsed": 1.6958333333333333,
+    "distance": -0.08568636979907751,
+    "late": -0.08568636979907751,
+    "steps": {
+      "L": {
+        "steps": 0,
+        "clearance": -0.002712003459113349
+      },
+      "R": {
+        "steps": 0,
+        "clearance": 0.06052281068651584
+      }
+    },
+    "lateSteps": 0,
+    "peak": 55.46169073014553,
+    "p": {
+      "period": 0.5,
+      "roll": 12,
+      "rollPhase": 0.75
+    },
+    "score": -100
+  },
+  {
+    "fall": {
+      "time": 2.75,
+      "reason": "body_ground_contact",
+      "links": [
+        "R_Forearm"
+      ]
+    },
+    "elapsed": 2.75,
+    "distance": 0.008432443253695965,
+    "late": 0.008432443253695965,
+    "steps": {
+      "L": {
+        "steps": 0,
+        "clearance": 0.06043148196366325
+      },
+      "R": {
+        "steps": 0,
+        "clearance": -0.0036323846568626222
+      }
+    },
+    "lateSteps": 0,
+    "peak": 54.45027550109921,
+    "p": {
+      "period": 0.8,
+      "roll": 4,
+      "rollPhase": 0.5
+    },
+    "score": -100
+  },
+  {
+    "fall": {
+      "time": 3.2916666666666665,
+      "reason": "body_ground_contact",
+      "links": [
+        "L_Forearm"
+      ]
+    },
+    "elapsed": 3.2916666666666665,
+    "distance": 0.013366332277655602,
+    "late": 0.013366332277655602,
+    "steps": {
+      "L": {
+        "steps": 0,
+        "clearance": -0.002999115217330796
+      },
+      "R": {
+        "steps": 1,
+        "clearance": 0.040375267199536845
+      }
+    },
+    "lateSteps": 1,
+    "peak": 50.280952812557516,
+    "p": {
+      "period": 0.8,
+      "roll": 8,
+      "rollPhase": 0.2
+    },
+    "score": -100
+  },
+  {
+    "fall": {
+      "time": 2.3666666666666667,
+      "reason": "body_ground_contact",
+      "links": [
+        "R_Forearm"
+      ]
+    },
+    "elapsed": 2.3666666666666667,
+    "distance": -0.02604799624532461,
+    "late": -0.02604799624532461,
+    "steps": {
+      "L": {
+        "steps": 0,
+        "clearance": 0.07095473913393369
+      },
+      "R": {
+        "steps": 0,
+        "clearance": -0.0026443765760993734
+      }
+    },
+    "lateSteps": 0,
+    "peak": 65.22446002173453,
+    "p": {
+      "period": 0.8,
+      "roll": 8,
+      "rollPhase": 0.75
+    },
+    "score": -100
+  },
+  {
+    "fall": {
+      "time": 1.7708333333333333,
+      "reason": "body_ground_contact",
+      "links": [
+        "R_Forearm"
+      ]
+    },
+    "elapsed": 1.7708333333333333,
+    "distance": -0.0171884773299098,
+    "late": -0.0171884773299098,
+    "steps": {
+      "L": {
+        "steps": 0,
+        "clearance": 0.07856888752620182
+      },
+      "R": {
+        "steps": 0,
+        "clearance": -0.0022907807102976324
+      }
+    },
+    "lateSteps": 0,
+    "peak": 73.08828516239578,
+    "p": {
+      "period": 0.8,
+      "roll": 12,
+      "rollPhase": 0.2
+    },
+    "score": -100
+  },
+  {
+    "fall": {
+      "time": 4.575,
+      "reason": "body_ground_contact",
+      "links": [
+        "L_Forearm"
+      ]
+    },
+    "elapsed": 4.575,
+    "distance": -0.02958448138087988,
+    "late": -0.02958448138087988,
+    "steps": {
+      "L": {
+        "steps": 1,
+        "clearance": -0.002456791312116499
+      },
+      "R": {
+        "steps": 1,
+        "clearance": 0.060580891457181096
+      }
+    },
+    "lateSteps": 2,
+    "peak": 63.379189202045474,
+    "p": {
+      "period": 0.8,
+      "roll": 8,
+      "rollPhase": 0.5
+    },
+    "score": -100
+  },
+  {
+    "fall": {
+      "time": 1.6875,
+      "reason": "body_ground_contact",
+      "links": [
+        "R_Forearm"
+      ]
+    },
+    "elapsed": 1.6875,
+    "distance": -0.03563814144581556,
+    "late": -0.03563814144581556,
+    "steps": {
+      "L": {
+        "steps": 0,
+        "clearance": 0.08168277069156402
+      },
+      "R": {
+        "steps": 0,
+        "clearance": -0.0016407106843897845
+      }
+    },
+    "lateSteps": 0,
+    "peak": 77.6470817122352,
+    "p": {
+      "period": 0.8,
+      "roll": 12,
+      "rollPhase": 0.5
+    },
+    "score": -100
+  },
+  {
+    "fall": {
+      "time": 2,
+      "reason": "body_ground_contact",
+      "links": [
+        "L_Forearm"
+      ]
+    },
+    "elapsed": 2,
+    "distance": -0.03307644557207823,
+    "late": -0.03307644557207823,
+    "steps": {
+      "L": {
+        "steps": 0,
+        "clearance": -0.0024894138997624965
+      },
+      "R": {
+        "steps": 0,
+        "clearance": 0.07071822853069853
+      }
+    },
+    "lateSteps": 0,
+    "peak": 63.67101368257273,
+    "p": {
+      "period": 0.8,
+      "roll": 12,
+      "rollPhase": 0.75
+    },
+    "score": -100
+  },
+  {
+    "fall": {
+      "time": 9.608333333333333,
+      "reason": "body_ground_contact",
+      "links": [
+        "R_AnkleCarrier"
+      ]
+    },
+    "elapsed": 9.608333333333333,
+    "distance": -0.2873693099245429,
+    "late": -0.28320720605552197,
+    "steps": {
+      "L": {
+        "steps": 0,
+        "clearance": -0.000035480059241789486
+      },
+      "R": {
+        "steps": 0,
+        "clearance": 0.0007221448985467935
+      }
+    },
+    "lateSteps": 0,
+    "peak": 79.07258206183116,
+    "p": {
+      "period": 1.2,
+      "roll": 4,
+      "rollPhase": 0.2
+    },
+    "score": -100
+  },
+  {
+    "fall": {
+      "time": 2.4,
+      "reason": "body_ground_contact",
+      "links": [
+        "L_ShoulderCarrier"
+      ]
+    },
+    "elapsed": 2.4,
+    "distance": -0.18667723145335913,
+    "late": -0.18667723145335913,
+    "steps": {
+      "L": {
+        "steps": 0,
+        "clearance": -0.0006800990244307387
+      },
+      "R": {
+        "steps": 0,
+        "clearance": 0.034871706092843624
+      }
+    },
+    "lateSteps": 0,
+    "peak": 77.6312612430397,
+    "p": {
+      "period": 1.2,
+      "roll": 8,
+      "rollPhase": 0.5
+    },
+    "score": -100
+  },
+  {
+    "fall": {
+      "time": 2.0666666666666664,
+      "reason": "body_ground_contact",
+      "links": [
+        "R_Forearm"
+      ]
+    },
+    "elapsed": 2.0666666666666664,
+    "distance": -0.03129019122570753,
+    "late": -0.03129019122570753,
+    "steps": {
+      "L": {
+        "steps": 0,
+        "clearance": 0.07639556719913589
+      },
+      "R": {
+        "steps": 0,
+        "clearance": -0.0033399458191251813
+      }
+    },
+    "lateSteps": 0,
+    "peak": 65.72033156985043,
+    "p": {
+      "period": 1.2,
+      "roll": 12,
+      "rollPhase": 0.2
+    },
+    "score": -100
+  },
+  {
+    "fall": {
+      "time": 5.108333333333333,
+      "reason": "body_ground_contact",
+      "links": [
+        "L_Forearm"
+      ]
+    },
+    "elapsed": 5.108333333333333,
+    "distance": -0.085210963152349,
+    "late": -0.011998526751995087,
+    "steps": {
+      "L": {
+        "steps": 0,
+        "clearance": -0.0027250461797353465
+      },
+      "R": {
+        "steps": 0,
+        "clearance": 0.0748188720947115
+      }
+    },
+    "lateSteps": 0,
+    "peak": 66.10082377033858,
+    "p": {
+      "period": 1.2,
+      "roll": 8,
+      "rollPhase": 0.2
+    },
+    "score": -100
+  },
+  {
+    "fall": {
+      "time": 1.8833333333333333,
+      "reason": "body_ground_contact",
+      "links": [
+        "R_Forearm"
+      ]
+    },
+    "elapsed": 1.8833333333333333,
+    "distance": -0.041949315927922726,
+    "late": -0.041949315927922726,
+    "steps": {
+      "L": {
+        "steps": 0,
+        "clearance": 0.07761400227553267
+      },
+      "R": {
+        "steps": 0,
+        "clearance": -0.0017971666125655428
+      }
+    },
+    "lateSteps": 0,
+    "peak": 77.61193527751068,
+    "p": {
+      "period": 1.2,
+      "roll": 12,
+      "rollPhase": 0.5
+    },
+    "score": -100
+  },
+  {
+    "fall": {
+      "time": 2.4833333333333334,
+      "reason": "body_ground_contact",
+      "links": [
+        "R_Forearm"
+      ]
+    },
+    "elapsed": 2.4833333333333334,
+    "distance": 0.009482368361204863,
+    "late": 0.009482368361204863,
+    "steps": {
+      "L": {
+        "steps": 0,
+        "clearance": 0.05995646818135515
+      },
+      "R": {
+        "steps": 0,
+        "clearance": -0.0039576158195541306
+      }
+    },
+    "lateSteps": 0,
+    "peak": 53.83637904995649,
+    "p": {
+      "period": 1.2,
+      "roll": 12,
+      "rollPhase": 0.75
+    },
+    "score": -100
+  }
+]

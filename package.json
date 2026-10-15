@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node tests/motion.test.mjs && node tests/uvc.test.mjs && node tests/step-observer.test.mjs && node tests/physics.test.mjs && node tests/v2.test.mjs"
+  },
+  "dependencies": {
+    "@dimforge/rapier3d-compat": "0.21.0",
+    "three": "0.180.0"
+  }
+}

@@ -1,0 +1,386 @@
+{
+  "name": "ASTRA / DS3225MG",
+  "height": 295,
+  "width": 275,
+  "depth": 95,
+  "units": "mm",
+  "joints": [
+    {
+      "name": "L_Hip_Roll",
+      "a": "Torso",
+      "b": "L_HipCarrier",
+      "p": [
+        -48,
+        -25,
+        219
+      ],
+      "axis": [
+        0,
+        -1,
+        0
+      ],
+      "limits": [
+        -15,
+        15
+      ],
+      "cad_axis": [
+        0,
+        -1,
+        0
+      ],
+      "label": "สะโพกเอียง ซ้าย",
+      "group": "leg"
+    },
+    {
+      "name": "L_HipPitch",
+      "a": "L_HipCarrier",
+      "b": "L_Thigh",
+      "p": [
+        -68.25,
+        0,
+        176
+      ],
+      "axis": [
+        -1,
+        0,
+        0
+      ],
+      "limits": [
+        -25,
+        25
+      ],
+      "cad_axis": [
+        -1,
+        0,
+        0
+      ],
+      "label": "สะโพกหน้า–หลัง ซ้าย",
+      "group": "leg"
+    },
+    {
+      "name": "L_KneePitch",
+      "a": "L_Thigh",
+      "b": "L_Shin",
+      "p": [
+        -68.25,
+        0,
+        113
+      ],
+      "axis": [
+        1,
+        0,
+        0
+      ],
+      "limits": [
+        0,
+        55
+      ],
+      "cad_axis": [
+        -1,
+        0,
+        0
+      ],
+      "label": "เข่า ซ้าย",
+      "group": "leg"
+    },
+    {
+      "name": "L_AnklePitch",
+      "a": "L_Shin",
+      "b": "L_Foot",
+      "p": [
+        -68.25,
+        0,
+        50
+      ],
+      "axis": [
+        -1,
+        0,
+        0
+      ],
+      "limits": [
+        -20,
+        20
+      ],
+      "cad_axis": [
+        -1,
+        0,
+        0
+      ],
+      "label": "ข้อเท้า ซ้าย",
+      "group": "leg"
+    },
+    {
+      "name": "L_ShoulderPitch",
+      "a": "Torso",
+      "b": "L_UpperArm",
+      "p": [
+        -133,
+        0,
+        241
+      ],
+      "axis": [
+        -1,
+        0,
+        0
+      ],
+      "limits": [
+        -35,
+        35
+      ],
+      "cad_axis": [
+        -1,
+        0,
+        0
+      ],
+      "label": "ไหล่ ซ้าย",
+      "group": "arm"
+    },
+    {
+      "name": "L_ElbowPitch",
+      "a": "L_UpperArm",
+      "b": "L_Forearm",
+      "p": [
+        -133,
+        0,
+        175
+      ],
+      "axis": [
+        -1,
+        0,
+        0
+      ],
+      "limits": [
+        0,
+        60
+      ],
+      "cad_axis": [
+        -1,
+        0,
+        0
+      ],
+      "label": "ข้อศอก ซ้าย",
+      "group": "arm"
+    },
+    {
+      "name": "R_Hip_Roll",
+      "a": "Torso",
+      "b": "R_HipCarrier",
+      "p": [
+        48,
+        -25,
+        219
+      ],
+      "axis": [
+        0,
+        -1,
+        0
+      ],
+      "limits": [
+        -15,
+        15
+      ],
+      "cad_axis": [
+        0,
+        -1,
+        0
+      ],
+      "label": "สะโพกเอียง ขวา",
+      "group": "leg"
+    },
+    {
+      "name": "R_HipPitch",
+      "a": "R_HipCarrier",
+      "b": "R_Thigh",
+      "p": [
+        68.25,
+        0,
+        176
+      ],
+      "axis": [
+        -1,
+        0,
+        0
+      ],
+      "limits": [
+        -25,
+        25
+      ],
+      "cad_axis": [
+        1,
+        0,
+        0
+      ],
+      "label": "สะโพกหน้า–หลัง ขวา",
+      "group": "leg"
+    },
+    {
+      "name": "R_KneePitch",
+      "a": "R_Thigh",
+      "b": "R_Shin",
+      "p": [
+        68.25,
+        0,
+        113
+      ],
+      "axis": [
+        1,
+        0,
+        0
+      ],
+      "limits": [
+        0,
+        55
+      ],
+      "cad_axis": [
+        1,
+        0,
+        0
+      ],
+      "label": "เข่า ขวา",
+      "group": "leg"
+    },
+    {
+      "name": "R_AnklePitch",
+      "a": "R_Shin",
+      "b": "R_Foot",
+      "p": [
+        68.25,
+        0,
+        50
+      ],
+      "axis": [
+        -1,
+        0,
+        0
+      ],
+      "limits": [
+        -20,
+        20
+      ],
+      "cad_axis": [
+        1,
+        0,
+        0
+      ],
+      "label": "ข้อเท้า ขวา",
+      "group": "leg"
+    },
+    {
+      "name": "R_ShoulderPitch",
+      "a": "Torso",
+      "b": "R_UpperArm",
+      "p": [
+        133,
+        0,
+        241
+      ],
+      "axis": [
+        -1,
+        0,
+        0
+      ],
+      "limits": [
+        -35,
+        35
+      ],
+      "cad_axis": [
+        1,
+        0,
+        0
+      ],
+      "label": "ไหล่ ขวา",
+      "group": "arm"
+    },
+    {
+      "name": "R_ElbowPitch",
+      "a": "R_UpperArm",
+      "b": "R_Forearm",
+      "p": [
+        133,
+        0,
+        175
+      ],
+      "axis": [
+        -1,
+        0,
+        0
+      ],
+      "limits": [
+        0,
+        60
+      ],
+      "cad_axis": [
+        1,
+        0,
+        0
+      ],
+      "label": "ข้อศอก ขวา",
+      "group": "arm"
+    }
+  ],
+  "links": [
+    "Torso",
+    "L_HipCarrier",
+    "L_Thigh",
+    "L_Shin",
+    "L_Foot",
+    "L_UpperArm",
+    "L_Forearm",
+    "R_HipCarrier",
+    "R_Thigh",
+    "R_Shin",
+    "R_Foot",
+    "R_UpperArm",
+    "R_Forearm"
+  ],
+  "meshCount": 150,
+  "source": "MiniHumanoid_DS3225_295_Assembly.solidcraft",
+  "angleConvention": "Anatomical angles, identical left/right; not raw servo commands.",
+  "simulation": "kinematic",
+  "footCorners": {
+    "L": [
+      [
+        -83,
+        -54,
+        0
+      ],
+      [
+        -83,
+        41,
+        0
+      ],
+      [
+        -13,
+        -54,
+        0
+      ],
+      [
+        -13,
+        41,
+        0
+      ]
+    ],
+    "R": [
+      [
+        13,
+        -54,
+        0
+      ],
+      [
+        13,
+        41,
+        0
+      ],
+      [
+        83,
+        -54,
+        0
+      ],
+      [
+        83,
+        41,
+        0
+      ]
+    ]
+  }
+}

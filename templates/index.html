@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="th"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Uncle Labs Simulator · Motion Studio</title><link rel="stylesheet" href="/static/style.css"><script type="importmap">{"imports":{"three":"/static/vendor/three.module.js"}}</script></head>
+<body>
+<header><a class="brand" href="/">Uncle Labs <span>Simulator</span><small>MOTION STUDIO</small></a><div class="header-tags"><a href="/physics" style="color:#a7c7ff;text-decoration:none;border:1px solid #3a5277;border-radius:6px;padding:5px 9px;font-size:11px">Physics Lab ↗</a><span class="tag">DS3225MG</span><span id="model-badge" class="tag">295 mm / 12 DOF</span><span id="status" class="status">กำลังโหลด…</span></div></header>
+<section class="model-toolbar" aria-label="เลือกรุ่นหุ่นยนต์"><label>โมเดลหุ่นยนต์<select id="robot-model" disabled></select></label><p id="model-info" class="hint"></p><a class="design-link" href="/design/v2">ข้อมูลการออกแบบ ASTRA V2 ↗</a><p class="hint">เปลี่ยนรุ่นจะเริ่มการจำลองใหม่ · บันทึกโปรแกรมที่แก้ก่อนเปลี่ยนรุ่น</p></section>
+<main>
+<aside class="panel library"><div class="eyebrow">01 / MOTION PROGRAM</div><h1>ออกแบบการเคลื่อนไหว</h1><p class="muted">เลือกท่า ปรับข้อต่อ แล้วบันทึกเป็นลำดับ</p>
+
+<label>คลังโปรแกรม<select id="programs" aria-label="คลังโปรแกรม"></select></label><p id="description" class="description"></p>
+<label>ชื่อโปรแกรม<input id="name" maxlength="100"></label>
+<div class="row"><button id="save" class="primary">บันทึกสำเนา</button><button id="new">＋ ใหม่</button></div>
+<div class="row"><button id="import">นำเข้า JSON</button><button id="export">ส่งออก JSON</button><input id="file" type="file" accept=".json,application/json" hidden></div>
+<div class="divider"></div><div class="section-title"><h2>Keyframes</h2><span id="frame-count" class="tag"></span></div>
+<div class="table-head"><span>ท่า / เวลา (s)</span><span>ตำแหน่ง Y (mm)</span></div><div id="frames" class="frames" role="list" aria-label="ลำดับท่า"></div>
+<label>เวลาของท่าที่เลือก (วินาที)<input id="frame-time" type="number" min="0" max="600" step="0.1"></label>
+<div class="row"><button id="capture" class="accent">บันทึกท่านี้</button><button id="add">＋ เพิ่มท่า</button><button id="delete" title="ลบท่าที่เลือก">ลบ</button></div><p id="dirty" class="hint">ปรับมุม → บันทึกท่า → บันทึกสำเนา</p>
+<label>การเปลี่ยนระหว่างท่า<select id="interpolation"><option value="smooth">Smooth · เร่งและผ่อน</option><option value="linear">Linear · ความเร็วคงที่</option></select></label>
+<details><summary>ตำแหน่งลำตัว / root (mm)</summary><div class="root-grid"><label>X<input id="root-x" type="number" step="1"></label><label>Y<input id="root-y" type="number" step="1"></label><label>Z<input id="root-z" type="number" step="1"></label></div><p class="hint">เดินหน้า = −Y · ขึ้น = +Z</p></details>
+</aside>
+<section class="stage"><div class="stage-bar"><div><div class="eyebrow">LIVE VIEWPORT</div><h2>Mini Humanoid <span class="muted">/ 01</span></h2></div><div class="view-buttons"><button data-view="iso" class="active">3D</button><button data-view="front">หน้า</button><button data-view="side">ข้าง</button><button data-view="top">บน</button></div></div>
+<div id="viewport"><div class="viewport-overlay"><span class="pill">● KINEMATIC</span><span class="help">ลากเพื่อหมุน · เลื่อนเพื่อซูม · คลิกชิ้นส่วนเพื่อเลือก</span></div><div id="loading">กำลังโหลดโมเดล CAD…</div><div class="viewport-bottom"><label><input id="follow" type="checkbox" checked> กล้องตามหุ่น</label><label><input id="skeleton" type="checkbox"> แสดงแกนข้อต่อ</label></div></div>
+<div class="telemetry"><div><small>เท้าซ้าย / ระยะจากพื้น</small><strong id="left-foot">—</strong></div><div><small>เท้าขวา / ระยะจากพื้น</small><strong id="right-foot">—</strong></div><div><small>ระยะเคลื่อนที่ Y</small><strong id="distance">0 mm</strong></div><div><small>รอบที่</small><strong id="cycle">1</strong></div></div>
+<div class="transport"><div class="timeline-top"><span id="current-time">0.00 s</span><span id="duration">/ 2.40 s</span></div><input id="timeline" type="range" min="0" max="2.4" step="0.001" value="0" aria-label="เวลาเล่น"><div class="transport-buttons"><button id="reset" title="เริ่มต้น">↺</button><button id="play" class="primary">▶ เล่น</button><button id="step" title="เลื่อนไป 0.1 วินาที">+0.1 s</button><label class="loop"><input id="loop" type="checkbox"> วนซ้ำ</label><label class="speed">ความเร็ว<select id="speed"><option value="0.25">0.25×</option><option value="0.5">0.5×</option><option value="1" selected>1×</option><option value="1.5">1.5×</option><option value="2">2×</option></select></label></div></div>
+<p class="simulation-note">จำลองตำแหน่งและมุมข้อต่อ ไม่คำนวณแรง สมดุล การชน หรือการตอบสนองของเซอร์โว</p>
+</section>
+<aside class="panel joint-panel"><div class="eyebrow">02 / JOINT CONTROL</div><div class="section-title"><h2>ข้อต่อและลิงก์</h2><span class="tag">DEG °</span></div><div id="selection" class="selection">เลือกข้อต่อเพื่อปรับมุม</div><div id="joints"></div><button id="neutral" class="full">คืนทุกข้อต่อเป็น 0°</button><p class="hint">มุมเป็นค่าของแบบจำลอง ยังไม่ใช่คำสั่ง PWM ของเซอร์โว</p></aside>
+</main><div id="toast" role="status" aria-live="polite"></div><script type="module" src="/static/app.js"></script></body></html>

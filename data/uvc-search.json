@@ -1,0 +1,476 @@
+[
+  {
+    "program": "example-walk",
+    "settings": {
+      "uvc": false
+    },
+    "requestedDuration": 15,
+    "push": null,
+    "elapsed": 9.916666666666666,
+    "fall": {
+      "time": 9.916666666666666,
+      "reason": "body_ground_contact",
+      "links": [
+        "Torso"
+      ]
+    },
+    "forward_m": -0.27170016057789326,
+    "maxSide_m": 0.01226635897478506,
+    "maxTilt_deg": 87.78429497400064,
+    "activeFraction": 0,
+    "saturatedFraction": 0
+  },
+  {
+    "program": "example-walk",
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 0.25,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    },
+    "requestedDuration": 15,
+    "push": null,
+    "elapsed": 15,
+    "fall": null,
+    "forward_m": -0.01135186292231083,
+    "maxSide_m": 0.006221397893104152,
+    "maxTilt_deg": 10.882644335603196,
+    "activeFraction": 0.9994444444444445,
+    "saturatedFraction": 0
+  },
+  {
+    "program": "example-walk",
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 0.25,
+      "uvcRoll": 1,
+      "uvcLimit": 8
+    },
+    "requestedDuration": 15,
+    "push": null,
+    "elapsed": 15,
+    "fall": null,
+    "forward_m": -0.010336348786950111,
+    "maxSide_m": 0.012513906598673056,
+    "maxTilt_deg": 10.042904500377968,
+    "activeFraction": 0.9994444444444445,
+    "saturatedFraction": 0
+  },
+  {
+    "program": "example-walk",
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 0.25,
+      "uvcRoll": 4,
+      "uvcLimit": 8
+    },
+    "requestedDuration": 15,
+    "push": null,
+    "elapsed": 15,
+    "fall": null,
+    "forward_m": -0.008324546739459038,
+    "maxSide_m": 0.013537242095818202,
+    "maxTilt_deg": 9.509430860997849,
+    "activeFraction": 0.9994444444444445,
+    "saturatedFraction": 0.008333333333333333
+  },
+  {
+    "program": "example-walk",
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 1,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    },
+    "requestedDuration": 15,
+    "push": null,
+    "elapsed": 15,
+    "fall": null,
+    "forward_m": -0.004534557461738586,
+    "maxSide_m": 0.004981018674893455,
+    "maxTilt_deg": 8.190389334644745,
+    "activeFraction": 0.9994444444444445,
+    "saturatedFraction": 0
+  },
+  {
+    "program": "example-walk",
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 1,
+      "uvcRoll": 1,
+      "uvcLimit": 8
+    },
+    "requestedDuration": 15,
+    "push": null,
+    "elapsed": 15,
+    "fall": null,
+    "forward_m": -0.006569093093276024,
+    "maxSide_m": 0.008401923276342881,
+    "maxTilt_deg": 7.9698382139814266,
+    "activeFraction": 0.9994444444444445,
+    "saturatedFraction": 0
+  },
+  {
+    "program": "example-walk",
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 1,
+      "uvcRoll": 4,
+      "uvcLimit": 8
+    },
+    "requestedDuration": 15,
+    "push": null,
+    "elapsed": 15,
+    "fall": null,
+    "forward_m": -0.006574248895049095,
+    "maxSide_m": 0.012092650464050133,
+    "maxTilt_deg": 7.449943024818572,
+    "activeFraction": 0.9994444444444445,
+    "saturatedFraction": 0.006666666666666667
+  },
+  {
+    "program": "example-walk",
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 3,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    },
+    "requestedDuration": 15,
+    "push": null,
+    "elapsed": 15,
+    "fall": null,
+    "forward_m": -0.00885789655148983,
+    "maxSide_m": 0.004497287771538299,
+    "maxTilt_deg": 5.672702696494624,
+    "activeFraction": 0.9994444444444445,
+    "saturatedFraction": 0
+  },
+  {
+    "program": "example-walk",
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 3,
+      "uvcRoll": 1,
+      "uvcLimit": 8
+    },
+    "requestedDuration": 15,
+    "push": null,
+    "elapsed": 15,
+    "fall": null,
+    "forward_m": -0.006885003298521042,
+    "maxSide_m": 0.00594761050674427,
+    "maxTilt_deg": 5.4210083428904055,
+    "activeFraction": 0.9994444444444445,
+    "saturatedFraction": 0
+  },
+  {
+    "program": "example-walk",
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 3,
+      "uvcRoll": 4,
+      "uvcLimit": 8
+    },
+    "requestedDuration": 15,
+    "push": null,
+    "elapsed": 15,
+    "fall": null,
+    "forward_m": -0.006290582939982414,
+    "maxSide_m": 0.01048297766748138,
+    "maxTilt_deg": 4.899395398203518,
+    "activeFraction": 0.9994444444444445,
+    "saturatedFraction": 0
+  },
+  {
+    "program": "example-walk",
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 8,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    },
+    "requestedDuration": 15,
+    "push": null,
+    "elapsed": 15,
+    "fall": null,
+    "forward_m": -0.00861913338303566,
+    "maxSide_m": 0.003999122056762874,
+    "maxTilt_deg": 3.57326549207596,
+    "activeFraction": 0.9994444444444445,
+    "saturatedFraction": 0.052222222222222225
+  },
+  {
+    "program": "example-walk",
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 8,
+      "uvcRoll": 1,
+      "uvcLimit": 8
+    },
+    "requestedDuration": 15,
+    "push": null,
+    "elapsed": 15,
+    "fall": null,
+    "forward_m": -0.006994234398007393,
+    "maxSide_m": 0.005415897029048319,
+    "maxTilt_deg": 3.2780124306605636,
+    "activeFraction": 0.9994444444444445,
+    "saturatedFraction": 0.0425
+  },
+  {
+    "program": "example-walk",
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 8,
+      "uvcRoll": 4,
+      "uvcLimit": 8
+    },
+    "requestedDuration": 15,
+    "push": null,
+    "elapsed": 15,
+    "fall": null,
+    "forward_m": -0.006555093452334404,
+    "maxSide_m": 0.009778060027661293,
+    "maxTilt_deg": 2.9305242219563925,
+    "activeFraction": 0.9994444444444445,
+    "saturatedFraction": 0.03388888888888889
+  },
+  {
+    "program": "example-stable-forward",
+    "settings": {
+      "uvc": false
+    },
+    "requestedDuration": 15,
+    "push": null,
+    "elapsed": 15,
+    "fall": null,
+    "forward_m": 0.11036003939807415,
+    "maxSide_m": 0.09150547253287966,
+    "maxTilt_deg": 9.715418041235012,
+    "activeFraction": 0,
+    "saturatedFraction": 0
+  },
+  {
+    "program": "example-stable-forward",
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 0.25,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    },
+    "requestedDuration": 15,
+    "push": null,
+    "elapsed": 15,
+    "fall": null,
+    "forward_m": 0.03082103654742241,
+    "maxSide_m": 0.10219602461899281,
+    "maxTilt_deg": 12.279952150831493,
+    "activeFraction": 0.9986111111111111,
+    "saturatedFraction": 0
+  },
+  {
+    "program": "example-stable-forward",
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 0.25,
+      "uvcRoll": 1,
+      "uvcLimit": 8
+    },
+    "requestedDuration": 15,
+    "push": null,
+    "elapsed": 15,
+    "fall": null,
+    "forward_m": 0.02016445528715849,
+    "maxSide_m": 0.08695724487853138,
+    "maxTilt_deg": 8.516302906469557,
+    "activeFraction": 0.9994444444444445,
+    "saturatedFraction": 0.04111111111111111
+  },
+  {
+    "program": "example-stable-forward",
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 0.25,
+      "uvcRoll": 4,
+      "uvcLimit": 8
+    },
+    "requestedDuration": 15,
+    "push": null,
+    "elapsed": 15,
+    "fall": null,
+    "forward_m": 0.013301055994816124,
+    "maxSide_m": 0.08565741284767313,
+    "maxTilt_deg": 7.440774017359091,
+    "activeFraction": 0.9994444444444445,
+    "saturatedFraction": 0.12222222222222222
+  },
+  {
+    "program": "example-stable-forward",
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 1,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    },
+    "requestedDuration": 15,
+    "push": null,
+    "elapsed": 15,
+    "fall": null,
+    "forward_m": 0.12417652271687984,
+    "maxSide_m": 0.09397518653945966,
+    "maxTilt_deg": 9.503460357868018,
+    "activeFraction": 0.9980555555555556,
+    "saturatedFraction": 0
+  },
+  {
+    "program": "example-stable-forward",
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 1,
+      "uvcRoll": 1,
+      "uvcLimit": 8
+    },
+    "requestedDuration": 15,
+    "push": null,
+    "elapsed": 15,
+    "fall": null,
+    "forward_m": 0.04143579117953777,
+    "maxSide_m": 0.10504993427724128,
+    "maxTilt_deg": 9.817445530757393,
+    "activeFraction": 0.9986111111111111,
+    "saturatedFraction": 0.065
+  },
+  {
+    "program": "example-stable-forward",
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 1,
+      "uvcRoll": 4,
+      "uvcLimit": 8
+    },
+    "requestedDuration": 15,
+    "push": null,
+    "elapsed": 15,
+    "fall": null,
+    "forward_m": 0.013064707163721323,
+    "maxSide_m": 0.0885081787501655,
+    "maxTilt_deg": 7.966148074596971,
+    "activeFraction": 0.9994444444444445,
+    "saturatedFraction": 0.12277777777777778
+  },
+  {
+    "program": "example-stable-forward",
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 3,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    },
+    "requestedDuration": 15,
+    "push": null,
+    "elapsed": 15,
+    "fall": null,
+    "forward_m": 0.13775253109633923,
+    "maxSide_m": 0.0940765097779346,
+    "maxTilt_deg": 9.845107170066088,
+    "activeFraction": 0.9975,
+    "saturatedFraction": 0
+  },
+  {
+    "program": "example-stable-forward",
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 3,
+      "uvcRoll": 1,
+      "uvcLimit": 8
+    },
+    "requestedDuration": 15,
+    "push": null,
+    "elapsed": 15,
+    "fall": null,
+    "forward_m": 0.003969681449234486,
+    "maxSide_m": 0.08733977728832028,
+    "maxTilt_deg": 8.566379227020855,
+    "activeFraction": 0.9994444444444445,
+    "saturatedFraction": 0.022222222222222223
+  },
+  {
+    "program": "example-stable-forward",
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 3,
+      "uvcRoll": 4,
+      "uvcLimit": 8
+    },
+    "requestedDuration": 15,
+    "push": null,
+    "elapsed": 15,
+    "fall": null,
+    "forward_m": 0.012604194693267345,
+    "maxSide_m": 0.08650133656790636,
+    "maxTilt_deg": 8.249082513202348,
+    "activeFraction": 0.9994444444444445,
+    "saturatedFraction": 0.11944444444444445
+  },
+  {
+    "program": "example-stable-forward",
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 8,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    },
+    "requestedDuration": 15,
+    "push": null,
+    "elapsed": 15,
+    "fall": null,
+    "forward_m": 0.1151862870901823,
+    "maxSide_m": 0.09173624431850606,
+    "maxTilt_deg": 9.829130895641564,
+    "activeFraction": 0.9980555555555556,
+    "saturatedFraction": 0
+  },
+  {
+    "program": "example-stable-forward",
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 8,
+      "uvcRoll": 1,
+      "uvcLimit": 8
+    },
+    "requestedDuration": 15,
+    "push": null,
+    "elapsed": 12.475,
+    "fall": {
+      "time": 12.475,
+      "reason": "body_ground_contact",
+      "links": [
+        "Torso"
+      ]
+    },
+    "forward_m": -0.22436410374939442,
+    "maxSide_m": 0.13866394145275884,
+    "maxTilt_deg": 78.69028895763066,
+    "activeFraction": 0.990313961255845,
+    "saturatedFraction": 0.1653306613226453
+  },
+  {
+    "program": "example-stable-forward",
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 8,
+      "uvcRoll": 4,
+      "uvcLimit": 8
+    },
+    "requestedDuration": 15,
+    "push": null,
+    "elapsed": 15,
+    "fall": null,
+    "forward_m": 0.034843169152736664,
+    "maxSide_m": 0.08675905904915221,
+    "maxTilt_deg": 10.919934859260309,
+    "activeFraction": 0.9988888888888889,
+    "saturatedFraction": 0.2511111111111111
+  }
+]

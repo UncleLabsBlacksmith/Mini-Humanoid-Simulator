@@ -1,0 +1,23 @@
+import fs from 'node:fs';
+import assert from 'node:assert/strict';
+import {initPhysics,PhysicsSimulation,DT} from '../static/physics-core.mjs';
+const read=p=>JSON.parse(fs.readFileSync(new URL('../'+p,import.meta.url),'utf8'));
+const robot=read('static/models/astra-v2/robot.json'),model=read('static/models/astra-v2/physics-model.json'),program=read('data/programs/astra-v2/example-walk.json');
+await initPhysics();
+const settings={batteryMass:.15,batteryX:0,batteryY:24,batteryZ:247,uvc:true,uvcPitch:3,uvcRoll:0,uvcLimit:8};
+const sim=new PhysicsSimulation(robot,model,program,settings);
+assert.equal(sim.world.bodies.len(),17);
+assert.ok(Object.values(sim.bodies).every(b=>b.isDynamic()));
+assert.ok(Math.abs(sim.mass-1.645838)<1e-6);
+for(let i=0;i<10/DT;i++)sim.step();
+assert.equal(sim.fall,null);
+assert.ok(sim.metrics.displacement>.15,'V2 must advance through ground contact');
+assert.ok(sim.stepObserver.snapshot().L.steps>=10&&sim.stepObserver.snapshot().R.steps>=10,'Both feet must step forward');
+assert.equal(sim.report().robot.id,'astra-v2');
+assert.ok(sim.metrics.errors.some(j=>j.name==='L_AnkleRoll'&&Math.abs(j.angle)>.1),'Extra ankle joint is physically articulated');
+const changed=structuredClone(program);for(const f of changed.frames)f.root=[900,3000,4000];
+const original=new PhysicsSimulation(robot,model,program,settings),altered=new PhysicsSimulation(robot,model,changed,settings);
+for(let i=0;i<1/DT;i++){original.step();altered.step();}
+for(const axis of ['x','y','z'])assert.ok(Math.abs(original.metrics.com[axis]-altered.metrics.com[axis])<1e-7);
+console.log('V2: 17 dynamic links, 16 joints, forward stepping, model identity and ignored root verified');
+for(const s of [sim,original,altered])s.dispose();

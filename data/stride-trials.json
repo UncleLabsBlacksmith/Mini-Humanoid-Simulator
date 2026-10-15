@@ -1,0 +1,860 @@
+[
+  {
+    "p": {
+      "stride": 16,
+      "period": 1.6,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 6,
+      "rollPhase": 0.25,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "score": -0.00994489123886886,
+    "distance": 0.02900153025984764,
+    "travel": 0.011834278702735901,
+    "late": 0.013123775832355022,
+    "sideMax": 0.04022210752764276,
+    "peak": 6.761923687119447,
+    "yaw": 0.6186086281078036,
+    "clearance": {
+      "L": 0,
+      "R": 0
+    },
+    "liftSamples": {
+      "L": 0,
+      "R": 0
+    },
+    "contacts": {
+      "L": 240,
+      "R": 240
+    },
+    "fall": null,
+    "seconds": 10,
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 3,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    }
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 1.6,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 6,
+      "rollPhase": 0.25,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "score": -0.033815650448552476,
+    "distance": 0.014300638809800148,
+    "travel": 0.002687053754925728,
+    "late": -0.001805291511118412,
+    "sideMax": 0.05039736179338466,
+    "peak": 6.813083316976468,
+    "yaw": 1.073017308499117,
+    "clearance": {
+      "L": 0,
+      "R": 0
+    },
+    "liftSamples": {
+      "L": 0,
+      "R": 0
+    },
+    "contacts": {
+      "L": 235,
+      "R": 239
+    },
+    "fall": null,
+    "seconds": 10,
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 3,
+      "uvcRoll": 4,
+      "uvcLimit": 8
+    }
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 1.6,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 6,
+      "rollPhase": 0.4,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "score": -0.03652088513000216,
+    "distance": 0.009103952441364527,
+    "travel": -0.007838156539946795,
+    "late": 0.005978105124086142,
+    "sideMax": 0.04451288379791218,
+    "peak": 6.964510867224192,
+    "yaw": 1.7092083118663561,
+    "clearance": {
+      "L": 0.0006060906369829352,
+      "R": 0.0008651912825749716
+    },
+    "liftSamples": {
+      "L": 2,
+      "R": 2
+    },
+    "contacts": {
+      "L": 232,
+      "R": 227
+    },
+    "fall": null,
+    "seconds": 10,
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 3,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    }
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 1.6,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 6,
+      "rollPhase": 0.4,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "score": -0.055637920004297015,
+    "distance": 0.0068020946346223354,
+    "travel": 0.0008447994478046894,
+    "late": -0.0019189571030437946,
+    "sideMax": 0.07817174192521972,
+    "peak": 14.12534713983975,
+    "yaw": -2.67673850975336,
+    "clearance": {
+      "L": 0.01570328196680989,
+      "R": 0.0032291973968861937
+    },
+    "liftSamples": {
+      "L": 20,
+      "R": 5
+    },
+    "contacts": {
+      "L": 214,
+      "R": 234
+    },
+    "fall": null,
+    "seconds": 10,
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 3,
+      "uvcRoll": 4,
+      "uvcLimit": 8
+    }
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 1.6,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 6,
+      "rollPhase": 0.55,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "score": -0.03839994576318999,
+    "distance": 0.0008360417559742928,
+    "travel": -0.015271767042577267,
+    "late": 0.0025183679535984993,
+    "sideMax": 0.034527644617449914,
+    "peak": 8.582171705998617,
+    "yaw": -0.7267048839901342,
+    "clearance": {
+      "L": 0,
+      "R": 4.357328547976991e-8
+    },
+    "liftSamples": {
+      "L": 0,
+      "R": 0
+    },
+    "contacts": {
+      "L": 227,
+      "R": 240
+    },
+    "fall": null,
+    "seconds": 10,
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 3,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    }
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 1.6,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 6,
+      "rollPhase": 0.55,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "score": -0.051722834514948905,
+    "distance": 0.0038953814655542374,
+    "travel": -0.013314473908394575,
+    "late": 0.008350871503353119,
+    "sideMax": 0.0598370114827092,
+    "peak": 12.990622682508997,
+    "yaw": -2.326294401114848,
+    "clearance": {
+      "L": 0.00868804122769394,
+      "R": 0.006245746436336602
+    },
+    "liftSamples": {
+      "L": 11,
+      "R": 5
+    },
+    "contacts": {
+      "L": 225,
+      "R": 233
+    },
+    "fall": null,
+    "seconds": 10,
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 3,
+      "uvcRoll": 4,
+      "uvcLimit": 8
+    }
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 1.6,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 9,
+      "rollPhase": 0.25,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "score": -0.04686595961683883,
+    "distance": 0.011026624590158463,
+    "travel": -0.004889904521405697,
+    "late": 0.0011593634262681007,
+    "sideMax": 0.060037298707814254,
+    "peak": 6.353771182945731,
+    "yaw": 1.7654257103240205,
+    "clearance": {
+      "L": 0,
+      "R": 0
+    },
+    "liftSamples": {
+      "L": 0,
+      "R": 0
+    },
+    "contacts": {
+      "L": 237,
+      "R": 240
+    },
+    "fall": null,
+    "seconds": 10,
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 3,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    }
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 1.6,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 9,
+      "rollPhase": 0.25,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "score": -0.9439166666666666,
+    "distance": 0.006987402215600014,
+    "travel": -0.0015377029776573181,
+    "late": 0.0009001446887850761,
+    "sideMax": 0.20155611827206815,
+    "peak": 55.303485736456025,
+    "yaw": -1.7166299049020408,
+    "clearance": {
+      "L": 0.05574665917535683,
+      "R": 0
+    },
+    "liftSamples": {
+      "L": 24,
+      "R": 0
+    },
+    "contacts": {
+      "L": 82,
+      "R": 109
+    },
+    "fall": {
+      "time": 5.608333333333333,
+      "reason": "body_ground_contact",
+      "links": [
+        "R_Forearm"
+      ]
+    },
+    "seconds": 5.608333333333333,
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 3,
+      "uvcRoll": 4,
+      "uvcLimit": 8
+    }
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 1.6,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 9,
+      "rollPhase": 0.4,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "score": -0.9623333333333334,
+    "distance": 0.006267583929002285,
+    "travel": 0.00383040402084589,
+    "late": -0.00006311200559139252,
+    "sideMax": 0.1864108065390378,
+    "peak": 66.5059527976066,
+    "yaw": -4.032913788433361,
+    "clearance": {
+      "L": 0.06349317695261612,
+      "R": 0.006839205480747151
+    },
+    "liftSamples": {
+      "L": 14,
+      "R": 9
+    },
+    "contacts": {
+      "L": 36,
+      "R": 40
+    },
+    "fall": {
+      "time": 3.7666666666666666,
+      "reason": "body_ground_contact",
+      "links": [
+        "R_Forearm"
+      ]
+    },
+    "seconds": 3.7666666666666666,
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 3,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    }
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 1.6,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 9,
+      "rollPhase": 0.4,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "score": -0.9390000000000001,
+    "distance": -0.01085018739104271,
+    "travel": -0.004148645326495171,
+    "late": -0.013711360283195972,
+    "sideMax": 0.14144332257779993,
+    "peak": 56.507872183432916,
+    "yaw": -2.5293629244152624,
+    "clearance": {
+      "L": 0.01992921643308787,
+      "R": 0.04897678898465356
+    },
+    "liftSamples": {
+      "L": 20,
+      "R": 17
+    },
+    "contacts": {
+      "L": 102,
+      "R": 98
+    },
+    "fall": {
+      "time": 6.1,
+      "reason": "body_ground_contact",
+      "links": [
+        "L_Forearm"
+      ]
+    },
+    "seconds": 6.1,
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 3,
+      "uvcRoll": 4,
+      "uvcLimit": 8
+    }
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 1.6,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 9,
+      "rollPhase": 0.55,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "score": -0.958375,
+    "distance": -0.030409885570406914,
+    "travel": -0.03644683863967657,
+    "late": 0.0005222298204898834,
+    "sideMax": 0.1630082134215955,
+    "peak": 57.56449155147793,
+    "yaw": 2.3933103544382535,
+    "clearance": {
+      "L": 0.00941614551950061,
+      "R": 0.04897717508597198
+    },
+    "liftSamples": {
+      "L": 7,
+      "R": 14
+    },
+    "contacts": {
+      "L": 56,
+      "R": 50
+    },
+    "fall": {
+      "time": 4.1625,
+      "reason": "body_ground_contact",
+      "links": [
+        "L_Forearm"
+      ]
+    },
+    "seconds": 4.1625,
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 3,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    }
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 1.6,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 9,
+      "rollPhase": 0.55,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "score": -0.9638333333333333,
+    "distance": 0.00009579118341207504,
+    "travel": -0.012108341557905078,
+    "late": -0.00001244712620973587,
+    "sideMax": 0.1661404702892223,
+    "peak": 60.383258825691755,
+    "yaw": -1.400619621939079,
+    "clearance": {
+      "L": 0.0551870988434026,
+      "R": 0
+    },
+    "liftSamples": {
+      "L": 12,
+      "R": 0
+    },
+    "contacts": {
+      "L": 34,
+      "R": 49
+    },
+    "fall": {
+      "time": 3.6166666666666667,
+      "reason": "body_ground_contact",
+      "links": [
+        "R_Forearm"
+      ]
+    },
+    "seconds": 3.6166666666666667,
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 3,
+      "uvcRoll": 4,
+      "uvcLimit": 8
+    }
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 1.6,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 12,
+      "rollPhase": 0.25,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "score": -0.962875,
+    "distance": 0.0001180032268166542,
+    "travel": -0.005696368403732777,
+    "late": -0.0006073731929063797,
+    "sideMax": 0.19841898344803374,
+    "peak": 51.27352152870779,
+    "yaw": -0.5547790821008703,
+    "clearance": {
+      "L": 0.049586352435965514,
+      "R": 8.932936446798267e-8
+    },
+    "liftSamples": {
+      "L": 13,
+      "R": 0
+    },
+    "contacts": {
+      "L": 37,
+      "R": 50
+    },
+    "fall": {
+      "time": 3.7125,
+      "reason": "body_ground_contact",
+      "links": [
+        "R_Forearm"
+      ]
+    },
+    "seconds": 3.7125,
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 3,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    }
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 1.6,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 12,
+      "rollPhase": 0.25,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "score": -0.9637083333333334,
+    "distance": 0.005950902588665485,
+    "travel": 0.004133928567171097,
+    "late": -0.00027218926697969437,
+    "sideMax": 0.20684248386458218,
+    "peak": 48.4376759459684,
+    "yaw": -1.5279040543255191,
+    "clearance": {
+      "L": 0.04180826649430726,
+      "R": 0
+    },
+    "liftSamples": {
+      "L": 11,
+      "R": 0
+    },
+    "contacts": {
+      "L": 35,
+      "R": 48
+    },
+    "fall": {
+      "time": 3.6291666666666664,
+      "reason": "body_ground_contact",
+      "links": [
+        "R_Forearm"
+      ]
+    },
+    "seconds": 3.6291666666666664,
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 3,
+      "uvcRoll": 4,
+      "uvcLimit": 8
+    }
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 1.6,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 12,
+      "rollPhase": 0.4,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "score": -0.963625,
+    "distance": 0.0018406063318252563,
+    "travel": -0.004409925080835819,
+    "late": 0.0000641336664557457,
+    "sideMax": 0.185799537919994,
+    "peak": 59.08664437733026,
+    "yaw": -1.26209183483484,
+    "clearance": {
+      "L": 0.05169509716733632,
+      "R": 0
+    },
+    "liftSamples": {
+      "L": 11,
+      "R": 0
+    },
+    "contacts": {
+      "L": 37,
+      "R": 48
+    },
+    "fall": {
+      "time": 3.6374999999999997,
+      "reason": "body_ground_contact",
+      "links": [
+        "R_Forearm"
+      ]
+    },
+    "seconds": 3.6374999999999997,
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 3,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    }
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 1.6,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 12,
+      "rollPhase": 0.4,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "score": -0.965375,
+    "distance": 0.0010110419243574142,
+    "travel": -0.0010433467105031013,
+    "late": 0.000031082890927791595,
+    "sideMax": 0.18615834005007986,
+    "peak": 47.624945600189605,
+    "yaw": -2.9080312894428686,
+    "clearance": {
+      "L": 0.041435749973941186,
+      "R": 0.0036150313660839734
+    },
+    "liftSamples": {
+      "L": 9,
+      "R": 4
+    },
+    "contacts": {
+      "L": 30,
+      "R": 39
+    },
+    "fall": {
+      "time": 3.4625,
+      "reason": "body_ground_contact",
+      "links": [
+        "R_Forearm"
+      ]
+    },
+    "seconds": 3.4625,
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 3,
+      "uvcRoll": 4,
+      "uvcLimit": 8
+    }
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 1.6,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 12,
+      "rollPhase": 0.55,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "score": -0.9640833333333333,
+    "distance": 0.012353464961051941,
+    "travel": 0.0013916511088609695,
+    "late": 0.0002480410039424896,
+    "sideMax": 0.1756498604748646,
+    "peak": 71.37656579348344,
+    "yaw": -6.584215696493868,
+    "clearance": {
+      "L": 0.06331430436654817,
+      "R": 0
+    },
+    "liftSamples": {
+      "L": 12,
+      "R": 0
+    },
+    "contacts": {
+      "L": 33,
+      "R": 48
+    },
+    "fall": {
+      "time": 3.591666666666667,
+      "reason": "body_ground_contact",
+      "links": [
+        "R_Forearm"
+      ]
+    },
+    "seconds": 3.591666666666667,
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 3,
+      "uvcRoll": 0,
+      "uvcLimit": 8
+    }
+  },
+  {
+    "p": {
+      "stride": 16,
+      "period": 1.6,
+      "duty": 0.6,
+      "lift": 8,
+      "down": 124,
+      "lean": 2,
+      "hipBias": 1,
+      "roll": 12,
+      "rollPhase": 0.55,
+      "arms": 10,
+      "armSwing": 8,
+      "elbow": 25,
+      "clip": true
+    },
+    "score": -0.9636666666666667,
+    "distance": 0.005992964841425419,
+    "travel": 0.003283652476966381,
+    "late": -0.00004521850496530533,
+    "sideMax": 0.1684084288455727,
+    "peak": 65.51024384475784,
+    "yaw": -3.951032668596553,
+    "clearance": {
+      "L": 0.05806966111055638,
+      "R": 0.0007913511826009301
+    },
+    "liftSamples": {
+      "L": 13,
+      "R": 1
+    },
+    "contacts": {
+      "L": 33,
+      "R": 48
+    },
+    "fall": {
+      "time": 3.6333333333333333,
+      "reason": "body_ground_contact",
+      "links": [
+        "R_Forearm"
+      ]
+    },
+    "seconds": 3.6333333333333333,
+    "settings": {
+      "uvc": true,
+      "uvcPitch": 3,
+      "uvcRoll": 4,
+      "uvcLimit": 8
+    }
+  }
+]

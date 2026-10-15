@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "modelId": "astra-v2",
+  "name": "V2 · ยืนตรง / โปรแกรมใหม่",
+  "description": "ท่ายืนตรงของหุ่น 16 แกน",
+  "loop": false,
+  "interpolation": "smooth",
+  "frames": [
+    {
+      "t": 0,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 0,
+        "L_KneePitch": 0,
+        "L_AnklePitch": 0,
+        "L_AnkleRoll": 0,
+        "L_ShoulderPitch": 0,
+        "L_ShoulderRoll": 0,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 0,
+        "R_KneePitch": 0,
+        "R_AnklePitch": 0,
+        "R_AnkleRoll": 0,
+        "R_ShoulderPitch": 0,
+        "R_ShoulderRoll": 0,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "t": 2,
+      "joints": {
+        "L_Hip_Roll": 0,
+        "L_HipPitch": 0,
+        "L_KneePitch": 0,
+        "L_AnklePitch": 0,
+        "L_AnkleRoll": 0,
+        "L_ShoulderPitch": 0,
+        "L_ShoulderRoll": 0,
+        "L_ElbowPitch": 0,
+        "R_Hip_Roll": 0,
+        "R_HipPitch": 0,
+        "R_KneePitch": 0,
+        "R_AnklePitch": 0,
+        "R_AnkleRoll": 0,
+        "R_ShoulderPitch": 0,
+        "R_ShoulderRoll": 0,
+        "R_ElbowPitch": 0
+      },
+      "root": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

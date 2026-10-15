@@ -1,0 +1,1490 @@
+{
+  "links": [
+    {
+      "name": "Torso",
+      "mass": 0.4519548,
+      "shapes": [
+        {
+          "name": "Chest_Front",
+          "center": [
+            0.0,
+            -0.016,
+            0.254
+          ],
+          "half": [
+            0.05,
+            0.0015,
+            0.021
+          ],
+          "servo": false,
+          "massFraction": 0.07527301402706643
+        },
+        {
+          "name": "Chest_Back",
+          "center": [
+            0.0,
+            0.047,
+            0.248
+          ],
+          "half": [
+            0.05,
+            0.0015,
+            0.027
+          ],
+          "servo": false,
+          "massFraction": 0.09677958946337112
+        },
+        {
+          "name": "Pelvis_Bridge",
+          "center": [
+            0.0,
+            0.045,
+            0.213
+          ],
+          "half": [
+            0.084,
+            0.0015,
+            0.003
+          ],
+          "servo": false,
+          "massFraction": 0.01806552336649594
+        },
+        {
+          "name": "Chest_Top",
+          "center": [
+            0.0,
+            0.015,
+            0.275
+          ],
+          "half": [
+            0.05,
+            0.0315,
+            0.0015
+          ],
+          "servo": false,
+          "massFraction": 0.11290952104059963
+        },
+        {
+          "name": "Controller_Envelope",
+          "center": [
+            0.0,
+            -0.008,
+            0.251
+          ],
+          "half": [
+            0.024,
+            0.004,
+            0.015
+          ],
+          "servo": false,
+          "massFraction": 0.09956747887178098
+        },
+        {
+          "name": "IMU_Envelope",
+          "center": [
+            0.0,
+            -0.008,
+            0.272
+          ],
+          "half": [
+            0.009,
+            0.006,
+            0.0015
+          ],
+          "servo": false,
+          "massFraction": 0.011063053207975666
+        },
+        {
+          "name": "Head",
+          "center": [
+            0.0,
+            0.004,
+            0.285
+          ],
+          "half": [
+            0.019,
+            0.016,
+            0.013
+          ],
+          "servo": false,
+          "massFraction": 0.05531526603987833
+        },
+        {
+          "name": "L_Hip_Roll_Case",
+          "center": [
+            -0.062,
+            0.02225,
+            0.23
+          ],
+          "half": [
+            0.02,
+            0.02025,
+            0.01
+          ],
+          "servo": true,
+          "massFraction": 0.1261188065709226
+        },
+        {
+          "name": "L_Hip_Roll_Lug_-23.625",
+          "center": [
+            -0.085625,
+            0.013300000000000001,
+            0.23
+          ],
+          "half": [
+            0.003625,
+            0.0015,
+            0.01
+          ],
+          "servo": true,
+          "massFraction": 0.0033189159623927
+        },
+        {
+          "name": "L_Hip_Roll_Lug_23.625",
+          "center": [
+            -0.038375,
+            0.013300000000000001,
+            0.23
+          ],
+          "half": [
+            0.003625,
+            0.0015,
+            0.01
+          ],
+          "servo": true,
+          "massFraction": 0.0033189159623927
+        },
+        {
+          "name": "L_ShoulderPitch_Case",
+          "center": [
+            -0.07575,
+            0.0,
+            0.265
+          ],
+          "half": [
+            0.02025,
+            0.01,
+            0.02
+          ],
+          "servo": true,
+          "massFraction": 0.1261188065709226
+        },
+        {
+          "name": "L_ShoulderPitch_Lug_-33.625",
+          "center": [
+            -0.0847,
+            0.0,
+            0.241375
+          ],
+          "half": [
+            0.0015,
+            0.01,
+            0.003625
+          ],
+          "servo": true,
+          "massFraction": 0.0033189159623927
+        },
+        {
+          "name": "L_ShoulderPitch_Lug_13.625",
+          "center": [
+            -0.0847,
+            0.0,
+            0.288625
+          ],
+          "half": [
+            0.0015,
+            0.01,
+            0.003625
+          ],
+          "servo": true,
+          "massFraction": 0.0033189159623927
+        },
+        {
+          "name": "R_Hip_Roll_Case",
+          "center": [
+            0.062,
+            0.02225,
+            0.23
+          ],
+          "half": [
+            0.02,
+            0.02025,
+            0.01
+          ],
+          "servo": true,
+          "massFraction": 0.1261188065709226
+        },
+        {
+          "name": "R_Hip_Roll_Lug_-23.625",
+          "center": [
+            0.038375,
+            0.013300000000000001,
+            0.23
+          ],
+          "half": [
+            0.003625,
+            0.0015,
+            0.01
+          ],
+          "servo": true,
+          "massFraction": 0.0033189159623927
+        },
+        {
+          "name": "R_Hip_Roll_Lug_23.625",
+          "center": [
+            0.085625,
+            0.013300000000000001,
+            0.23
+          ],
+          "half": [
+            0.003625,
+            0.0015,
+            0.01
+          ],
+          "servo": true,
+          "massFraction": 0.0033189159623927
+        },
+        {
+          "name": "R_ShoulderPitch_Case",
+          "center": [
+            0.07575,
+            0.0,
+            0.265
+          ],
+          "half": [
+            0.02025,
+            0.01,
+            0.02
+          ],
+          "servo": true,
+          "massFraction": 0.1261188065709226
+        },
+        {
+          "name": "R_ShoulderPitch_Lug_-33.625",
+          "center": [
+            0.0847,
+            0.0,
+            0.241375
+          ],
+          "half": [
+            0.0015,
+            0.01,
+            0.003625
+          ],
+          "servo": true,
+          "massFraction": 0.0033189159623927
+        },
+        {
+          "name": "R_ShoulderPitch_Lug_13.625",
+          "center": [
+            0.0847,
+            0.0,
+            0.288625
+          ],
+          "half": [
+            0.0015,
+            0.01,
+            0.003625
+          ],
+          "servo": true,
+          "massFraction": 0.0033189159623927
+        }
+      ]
+    },
+    {
+      "name": "L_HipCarrier",
+      "mass": 0.0671678,
+      "shapes": [
+        {
+          "name": "L_Hip_Roll_Horn",
+          "center": [
+            -0.052,
+            -0.0015,
+            0.23
+          ],
+          "half": [
+            0.007,
+            0.0015,
+            0.007
+          ],
+          "servo": false,
+          "massFraction": 0.029776172511233063
+        },
+        {
+          "name": "L_HipPitch_Case",
+          "center": [
+            -0.02975,
+            0.0,
+            0.195
+          ],
+          "half": [
+            0.02025,
+            0.01,
+            0.02
+          ],
+          "servo": true,
+          "massFraction": 0.8486209165701423
+        },
+        {
+          "name": "L_HipPitch_Lug_-33.625",
+          "center": [
+            -0.038700000000000005,
+            0.0,
+            0.171375
+          ],
+          "half": [
+            0.0015,
+            0.01,
+            0.003625
+          ],
+          "servo": true,
+          "massFraction": 0.022332129383424798
+        },
+        {
+          "name": "L_HipPitch_Lug_13.625",
+          "center": [
+            -0.038700000000000005,
+            0.0,
+            0.218625
+          ],
+          "half": [
+            0.0015,
+            0.01,
+            0.003625
+          ],
+          "servo": true,
+          "massFraction": 0.022332129383424798
+        },
+        {
+          "name": "L_Hip_Link",
+          "center": [
+            -0.052,
+            -0.015,
+            0.2175
+          ],
+          "half": [
+            0.011,
+            0.0015,
+            0.0145
+          ],
+          "servo": false,
+          "massFraction": 0.0769386521517751
+        }
+      ]
+    },
+    {
+      "name": "L_Thigh",
+      "mass": 0.075689,
+      "shapes": [
+        {
+          "name": "L_HipPitch_Horn",
+          "center": [
+            -0.0535,
+            0.0,
+            0.205
+          ],
+          "half": [
+            0.0015,
+            0.007,
+            0.007
+          ],
+          "servo": false,
+          "massFraction": 0.026423918931416716
+        },
+        {
+          "name": "L_KneePitch_Case",
+          "center": [
+            -0.02975,
+            0.0,
+            0.13
+          ],
+          "half": [
+            0.02025,
+            0.01,
+            0.02
+          ],
+          "servo": true,
+          "massFraction": 0.7530816895453765
+        },
+        {
+          "name": "L_KneePitch_Lug_-33.625",
+          "center": [
+            -0.038700000000000005,
+            0.0,
+            0.106375
+          ],
+          "half": [
+            0.0015,
+            0.01,
+            0.003625
+          ],
+          "servo": true,
+          "massFraction": 0.019817939198562538
+        },
+        {
+          "name": "L_KneePitch_Lug_13.625",
+          "center": [
+            -0.038700000000000005,
+            0.0,
+            0.153625
+          ],
+          "half": [
+            0.0015,
+            0.01,
+            0.003625
+          ],
+          "servo": true,
+          "massFraction": 0.019817939198562538
+        },
+        {
+          "name": "L_Thigh_Plate",
+          "center": [
+            -0.057,
+            0.0,
+            0.1725
+          ],
+          "half": [
+            0.0015,
+            0.013,
+            0.0325
+          ],
+          "servo": false,
+          "massFraction": 0.1808585131260817
+        }
+      ]
+    },
+    {
+      "name": "L_Shin",
+      "mass": 0.075689,
+      "shapes": [
+        {
+          "name": "L_KneePitch_Horn",
+          "center": [
+            -0.0535,
+            0.0,
+            0.14
+          ],
+          "half": [
+            0.0015,
+            0.007,
+            0.007
+          ],
+          "servo": false,
+          "massFraction": 0.026423918931416716
+        },
+        {
+          "name": "L_AnklePitch_Case",
+          "center": [
+            -0.02975,
+            0.0,
+            0.065
+          ],
+          "half": [
+            0.02025,
+            0.01,
+            0.02
+          ],
+          "servo": true,
+          "massFraction": 0.7530816895453765
+        },
+        {
+          "name": "L_AnklePitch_Lug_-33.625",
+          "center": [
+            -0.038700000000000005,
+            0.0,
+            0.041375
+          ],
+          "half": [
+            0.0015,
+            0.01,
+            0.003625
+          ],
+          "servo": true,
+          "massFraction": 0.019817939198562538
+        },
+        {
+          "name": "L_AnklePitch_Lug_13.625",
+          "center": [
+            -0.038700000000000005,
+            0.0,
+            0.088625
+          ],
+          "half": [
+            0.0015,
+            0.01,
+            0.003625
+          ],
+          "servo": true,
+          "massFraction": 0.019817939198562538
+        },
+        {
+          "name": "L_Shin_Plate",
+          "center": [
+            -0.057,
+            0.0,
+            0.1075
+          ],
+          "half": [
+            0.0015,
+            0.013,
+            0.0325
+          ],
+          "servo": false,
+          "massFraction": 0.1808585131260817
+        }
+      ]
+    },
+    {
+      "name": "L_AnkleCarrier",
+      "mass": 0.0727406,
+      "shapes": [
+        {
+          "name": "L_AnklePitch_Horn",
+          "center": [
+            -0.0535,
+            0.0,
+            0.075
+          ],
+          "half": [
+            0.0015,
+            0.007,
+            0.007
+          ],
+          "servo": false,
+          "massFraction": 0.027494961548296275
+        },
+        {
+          "name": "L_AnkleRoll_Case",
+          "center": [
+            -0.042,
+            0.02225,
+            0.024
+          ],
+          "half": [
+            0.02,
+            0.02025,
+            0.01
+          ],
+          "servo": true,
+          "massFraction": 0.7836064041264438
+        },
+        {
+          "name": "L_AnkleRoll_Lug_-23.625",
+          "center": [
+            -0.065625,
+            0.013300000000000001,
+            0.024
+          ],
+          "half": [
+            0.003625,
+            0.0015,
+            0.01
+          ],
+          "servo": true,
+          "massFraction": 0.020621221161222204
+        },
+        {
+          "name": "L_AnkleRoll_Lug_23.625",
+          "center": [
+            -0.018375,
+            0.013300000000000001,
+            0.024
+          ],
+          "half": [
+            0.003625,
+            0.0015,
+            0.01
+          ],
+          "servo": true,
+          "massFraction": 0.020621221161222204
+        },
+        {
+          "name": "L_Ankle_Link",
+          "center": [
+            -0.057,
+            -0.019,
+            0.0495
+          ],
+          "half": [
+            0.0015,
+            0.013,
+            0.0255
+          ],
+          "servo": false,
+          "massFraction": 0.14765619200281546
+        }
+      ]
+    },
+    {
+      "name": "L_Foot",
+      "mass": 0.067448,
+      "shapes": [
+        {
+          "name": "L_AnkleRoll_Horn",
+          "center": [
+            -0.052,
+            -0.0015,
+            0.024
+          ],
+          "half": [
+            0.007,
+            0.0015,
+            0.007
+          ],
+          "servo": false,
+          "massFraction": 0.02965247301624956
+        },
+        {
+          "name": "L_Foot_Plate",
+          "center": [
+            -0.052,
+            -0.005,
+            0.002
+          ],
+          "half": [
+            0.03,
+            0.0475,
+            0.002
+          ],
+          "servo": false,
+          "massFraction": 0.9127031194401614
+        },
+        {
+          "name": "L_Foot_Horn_Bracket",
+          "center": [
+            -0.052,
+            -0.0045,
+            0.014
+          ],
+          "half": [
+            0.01,
+            0.0015,
+            0.012
+          ],
+          "servo": false,
+          "massFraction": 0.05764440754358914
+        }
+      ]
+    },
+    {
+      "name": "L_ShoulderCarrier",
+      "mass": 0.0664064,
+      "shapes": [
+        {
+          "name": "L_ShoulderPitch_Horn",
+          "center": [
+            -0.0995,
+            0.0,
+            0.275
+          ],
+          "half": [
+            0.0015,
+            0.007,
+            0.007
+          ],
+          "servo": false,
+          "massFraction": 0.03011757902852737
+        },
+        {
+          "name": "L_ShoulderRoll_Case",
+          "center": [
+            -0.11,
+            0.02225,
+            0.235
+          ],
+          "half": [
+            0.01,
+            0.02025,
+            0.02
+          ],
+          "servo": true,
+          "massFraction": 0.8583510023130301
+        },
+        {
+          "name": "L_ShoulderRoll_Lug_-23.625",
+          "center": [
+            -0.11,
+            0.013300000000000001,
+            0.211375
+          ],
+          "half": [
+            0.01,
+            0.0015,
+            0.003625
+          ],
+          "servo": true,
+          "massFraction": 0.02258818427139553
+        },
+        {
+          "name": "L_ShoulderRoll_Lug_23.625",
+          "center": [
+            -0.11,
+            0.013300000000000001,
+            0.258625
+          ],
+          "half": [
+            0.01,
+            0.0015,
+            0.003625
+          ],
+          "servo": true,
+          "massFraction": 0.02258818427139553
+        },
+        {
+          "name": "L_Shoulder_Link",
+          "center": [
+            -0.104,
+            -0.015,
+            0.26
+          ],
+          "half": [
+            0.008,
+            0.0015,
+            0.017
+          ],
+          "servo": false,
+          "massFraction": 0.0663550501156515
+        }
+      ]
+    },
+    {
+      "name": "L_UpperArm",
+      "mass": 0.072692,
+      "shapes": [
+        {
+          "name": "L_ShoulderRoll_Horn",
+          "center": [
+            -0.11,
+            -0.0015,
+            0.245
+          ],
+          "half": [
+            0.007,
+            0.0015,
+            0.007
+          ],
+          "servo": false,
+          "massFraction": 0.027513343971826334
+        },
+        {
+          "name": "L_ElbowPitch_Case",
+          "center": [
+            -0.08775,
+            0.0,
+            0.18
+          ],
+          "half": [
+            0.02025,
+            0.01,
+            0.02
+          ],
+          "servo": true,
+          "massFraction": 0.7841303031970506
+        },
+        {
+          "name": "L_ElbowPitch_Lug_-33.625",
+          "center": [
+            -0.09670000000000001,
+            0.0,
+            0.156375
+          ],
+          "half": [
+            0.0015,
+            0.01,
+            0.003625
+          ],
+          "servo": true,
+          "massFraction": 0.02063500797886975
+        },
+        {
+          "name": "L_ElbowPitch_Lug_13.625",
+          "center": [
+            -0.09670000000000001,
+            0.0,
+            0.203625
+          ],
+          "half": [
+            0.0015,
+            0.01,
+            0.003625
+          ],
+          "servo": true,
+          "massFraction": 0.02063500797886975
+        },
+        {
+          "name": "L_Upperarm_Link",
+          "center": [
+            -0.115,
+            -0.015,
+            0.2175
+          ],
+          "half": [
+            0.0015,
+            0.012,
+            0.0275
+          ],
+          "servo": false,
+          "massFraction": 0.14708633687338357
+        }
+      ]
+    },
+    {
+      "name": "L_Forearm",
+      "mass": 0.0241088,
+      "shapes": [
+        {
+          "name": "L_ElbowPitch_Horn",
+          "center": [
+            -0.1115,
+            0.0,
+            0.19
+          ],
+          "half": [
+            0.0015,
+            0.007,
+            0.007
+          ],
+          "servo": false,
+          "massFraction": 0.08295726041943191
+        },
+        {
+          "name": "L_Forearm_Link",
+          "center": [
+            -0.115,
+            -0.015,
+            0.164
+          ],
+          "half": [
+            0.0015,
+            0.012,
+            0.026
+          ],
+          "servo": false,
+          "massFraction": 0.4192991770639766
+        },
+        {
+          "name": "L_Hand",
+          "center": [
+            -0.11,
+            -0.005,
+            0.135
+          ],
+          "half": [
+            0.012,
+            0.012,
+            0.006
+          ],
+          "servo": false,
+          "massFraction": 0.49774356251659146
+        }
+      ]
+    },
+    {
+      "name": "R_HipCarrier",
+      "mass": 0.0671678,
+      "shapes": [
+        {
+          "name": "R_Hip_Roll_Horn",
+          "center": [
+            0.052,
+            -0.0015,
+            0.23
+          ],
+          "half": [
+            0.007,
+            0.0015,
+            0.007
+          ],
+          "servo": false,
+          "massFraction": 0.029776172511233063
+        },
+        {
+          "name": "R_HipPitch_Case",
+          "center": [
+            0.02975,
+            0.0,
+            0.195
+          ],
+          "half": [
+            0.02025,
+            0.01,
+            0.02
+          ],
+          "servo": true,
+          "massFraction": 0.8486209165701423
+        },
+        {
+          "name": "R_HipPitch_Lug_-33.625",
+          "center": [
+            0.038700000000000005,
+            0.0,
+            0.171375
+          ],
+          "half": [
+            0.0015,
+            0.01,
+            0.003625
+          ],
+          "servo": true,
+          "massFraction": 0.022332129383424798
+        },
+        {
+          "name": "R_HipPitch_Lug_13.625",
+          "center": [
+            0.038700000000000005,
+            0.0,
+            0.218625
+          ],
+          "half": [
+            0.0015,
+            0.01,
+            0.003625
+          ],
+          "servo": true,
+          "massFraction": 0.022332129383424798
+        },
+        {
+          "name": "R_Hip_Link",
+          "center": [
+            0.052,
+            -0.015,
+            0.2175
+          ],
+          "half": [
+            0.011,
+            0.0015,
+            0.0145
+          ],
+          "servo": false,
+          "massFraction": 0.0769386521517751
+        }
+      ]
+    },
+    {
+      "name": "R_Thigh",
+      "mass": 0.075689,
+      "shapes": [
+        {
+          "name": "R_HipPitch_Horn",
+          "center": [
+            0.0535,
+            0.0,
+            0.205
+          ],
+          "half": [
+            0.0015,
+            0.007,
+            0.007
+          ],
+          "servo": false,
+          "massFraction": 0.026423918931416716
+        },
+        {
+          "name": "R_KneePitch_Case",
+          "center": [
+            0.02975,
+            0.0,
+            0.13
+          ],
+          "half": [
+            0.02025,
+            0.01,
+            0.02
+          ],
+          "servo": true,
+          "massFraction": 0.7530816895453765
+        },
+        {
+          "name": "R_KneePitch_Lug_-33.625",
+          "center": [
+            0.038700000000000005,
+            0.0,
+            0.106375
+          ],
+          "half": [
+            0.0015,
+            0.01,
+            0.003625
+          ],
+          "servo": true,
+          "massFraction": 0.019817939198562538
+        },
+        {
+          "name": "R_KneePitch_Lug_13.625",
+          "center": [
+            0.038700000000000005,
+            0.0,
+            0.153625
+          ],
+          "half": [
+            0.0015,
+            0.01,
+            0.003625
+          ],
+          "servo": true,
+          "massFraction": 0.019817939198562538
+        },
+        {
+          "name": "R_Thigh_Plate",
+          "center": [
+            0.057,
+            0.0,
+            0.1725
+          ],
+          "half": [
+            0.0015,
+            0.013,
+            0.0325
+          ],
+          "servo": false,
+          "massFraction": 0.1808585131260817
+        }
+      ]
+    },
+    {
+      "name": "R_Shin",
+      "mass": 0.075689,
+      "shapes": [
+        {
+          "name": "R_KneePitch_Horn",
+          "center": [
+            0.0535,
+            0.0,
+            0.14
+          ],
+          "half": [
+            0.0015,
+            0.007,
+            0.007
+          ],
+          "servo": false,
+          "massFraction": 0.026423918931416716
+        },
+        {
+          "name": "R_AnklePitch_Case",
+          "center": [
+            0.02975,
+            0.0,
+            0.065
+          ],
+          "half": [
+            0.02025,
+            0.01,
+            0.02
+          ],
+          "servo": true,
+          "massFraction": 0.7530816895453765
+        },
+        {
+          "name": "R_AnklePitch_Lug_-33.625",
+          "center": [
+            0.038700000000000005,
+            0.0,
+            0.041375
+          ],
+          "half": [
+            0.0015,
+            0.01,
+            0.003625
+          ],
+          "servo": true,
+          "massFraction": 0.019817939198562538
+        },
+        {
+          "name": "R_AnklePitch_Lug_13.625",
+          "center": [
+            0.038700000000000005,
+            0.0,
+            0.088625
+          ],
+          "half": [
+            0.0015,
+            0.01,
+            0.003625
+          ],
+          "servo": true,
+          "massFraction": 0.019817939198562538
+        },
+        {
+          "name": "R_Shin_Plate",
+          "center": [
+            0.057,
+            0.0,
+            0.1075
+          ],
+          "half": [
+            0.0015,
+            0.013,
+            0.0325
+          ],
+          "servo": false,
+          "massFraction": 0.1808585131260817
+        }
+      ]
+    },
+    {
+      "name": "R_AnkleCarrier",
+      "mass": 0.0727406,
+      "shapes": [
+        {
+          "name": "R_AnklePitch_Horn",
+          "center": [
+            0.0535,
+            0.0,
+            0.075
+          ],
+          "half": [
+            0.0015,
+            0.007,
+            0.007
+          ],
+          "servo": false,
+          "massFraction": 0.027494961548296275
+        },
+        {
+          "name": "R_AnkleRoll_Case",
+          "center": [
+            0.042,
+            0.02225,
+            0.024
+          ],
+          "half": [
+            0.02,
+            0.02025,
+            0.01
+          ],
+          "servo": true,
+          "massFraction": 0.7836064041264438
+        },
+        {
+          "name": "R_AnkleRoll_Lug_-23.625",
+          "center": [
+            0.018375,
+            0.013300000000000001,
+            0.024
+          ],
+          "half": [
+            0.003625,
+            0.0015,
+            0.01
+          ],
+          "servo": true,
+          "massFraction": 0.020621221161222204
+        },
+        {
+          "name": "R_AnkleRoll_Lug_23.625",
+          "center": [
+            0.065625,
+            0.013300000000000001,
+            0.024
+          ],
+          "half": [
+            0.003625,
+            0.0015,
+            0.01
+          ],
+          "servo": true,
+          "massFraction": 0.020621221161222204
+        },
+        {
+          "name": "R_Ankle_Link",
+          "center": [
+            0.057,
+            -0.019,
+            0.0495
+          ],
+          "half": [
+            0.0015,
+            0.013,
+            0.0255
+          ],
+          "servo": false,
+          "massFraction": 0.14765619200281546
+        }
+      ]
+    },
+    {
+      "name": "R_Foot",
+      "mass": 0.067448,
+      "shapes": [
+        {
+          "name": "R_AnkleRoll_Horn",
+          "center": [
+            0.052,
+            -0.0015,
+            0.024
+          ],
+          "half": [
+            0.007,
+            0.0015,
+            0.007
+          ],
+          "servo": false,
+          "massFraction": 0.02965247301624956
+        },
+        {
+          "name": "R_Foot_Plate",
+          "center": [
+            0.052,
+            -0.005,
+            0.002
+          ],
+          "half": [
+            0.03,
+            0.0475,
+            0.002
+          ],
+          "servo": false,
+          "massFraction": 0.9127031194401614
+        },
+        {
+          "name": "R_Foot_Horn_Bracket",
+          "center": [
+            0.052,
+            -0.0045,
+            0.014
+          ],
+          "half": [
+            0.01,
+            0.0015,
+            0.012
+          ],
+          "servo": false,
+          "massFraction": 0.05764440754358914
+        }
+      ]
+    },
+    {
+      "name": "R_ShoulderCarrier",
+      "mass": 0.0664064,
+      "shapes": [
+        {
+          "name": "R_ShoulderPitch_Horn",
+          "center": [
+            0.0995,
+            0.0,
+            0.275
+          ],
+          "half": [
+            0.0015,
+            0.007,
+            0.007
+          ],
+          "servo": false,
+          "massFraction": 0.03011757902852737
+        },
+        {
+          "name": "R_ShoulderRoll_Case",
+          "center": [
+            0.11,
+            0.02225,
+            0.235
+          ],
+          "half": [
+            0.01,
+            0.02025,
+            0.02
+          ],
+          "servo": true,
+          "massFraction": 0.8583510023130301
+        },
+        {
+          "name": "R_ShoulderRoll_Lug_-23.625",
+          "center": [
+            0.11,
+            0.013300000000000001,
+            0.211375
+          ],
+          "half": [
+            0.01,
+            0.0015,
+            0.003625
+          ],
+          "servo": true,
+          "massFraction": 0.02258818427139553
+        },
+        {
+          "name": "R_ShoulderRoll_Lug_23.625",
+          "center": [
+            0.11,
+            0.013300000000000001,
+            0.258625
+          ],
+          "half": [
+            0.01,
+            0.0015,
+            0.003625
+          ],
+          "servo": true,
+          "massFraction": 0.02258818427139553
+        },
+        {
+          "name": "R_Shoulder_Link",
+          "center": [
+            0.104,
+            -0.015,
+            0.26
+          ],
+          "half": [
+            0.008,
+            0.0015,
+            0.017
+          ],
+          "servo": false,
+          "massFraction": 0.0663550501156515
+        }
+      ]
+    },
+    {
+      "name": "R_UpperArm",
+      "mass": 0.072692,
+      "shapes": [
+        {
+          "name": "R_ShoulderRoll_Horn",
+          "center": [
+            0.11,
+            -0.0015,
+            0.245
+          ],
+          "half": [
+            0.007,
+            0.0015,
+            0.007
+          ],
+          "servo": false,
+          "massFraction": 0.027513343971826334
+        },
+        {
+          "name": "R_ElbowPitch_Case",
+          "center": [
+            0.08775,
+            0.0,
+            0.18
+          ],
+          "half": [
+            0.02025,
+            0.01,
+            0.02
+          ],
+          "servo": true,
+          "massFraction": 0.7841303031970506
+        },
+        {
+          "name": "R_ElbowPitch_Lug_-33.625",
+          "center": [
+            0.09670000000000001,
+            0.0,
+            0.156375
+          ],
+          "half": [
+            0.0015,
+            0.01,
+            0.003625
+          ],
+          "servo": true,
+          "massFraction": 0.02063500797886975
+        },
+        {
+          "name": "R_ElbowPitch_Lug_13.625",
+          "center": [
+            0.09670000000000001,
+            0.0,
+            0.203625
+          ],
+          "half": [
+            0.0015,
+            0.01,
+            0.003625
+          ],
+          "servo": true,
+          "massFraction": 0.02063500797886975
+        },
+        {
+          "name": "R_Upperarm_Link",
+          "center": [
+            0.115,
+            -0.015,
+            0.2175
+          ],
+          "half": [
+            0.0015,
+            0.012,
+            0.0275
+          ],
+          "servo": false,
+          "massFraction": 0.14708633687338357
+        }
+      ]
+    },
+    {
+      "name": "R_Forearm",
+      "mass": 0.0241088,
+      "shapes": [
+        {
+          "name": "R_ElbowPitch_Horn",
+          "center": [
+            0.1115,
+            0.0,
+            0.19
+          ],
+          "half": [
+            0.0015,
+            0.007,
+            0.007
+          ],
+          "servo": false,
+          "massFraction": 0.08295726041943191
+        },
+        {
+          "name": "R_Forearm_Link",
+          "center": [
+            0.115,
+            -0.015,
+            0.164
+          ],
+          "half": [
+            0.0015,
+            0.012,
+            0.026
+          ],
+          "servo": false,
+          "massFraction": 0.4192991770639766
+        },
+        {
+          "name": "R_Hand",
+          "center": [
+            0.11,
+            -0.005,
+            0.135
+          ],
+          "half": [
+            0.012,
+            0.012,
+            0.006
+          ],
+          "servo": false,
+          "massFraction": 0.49774356251659146
+        }
+      ]
+    }
+  ],
+  "battery": {
+    "mass": 0.15,
+    "center": [
+      0,
+      0.024,
+      0.247
+    ],
+    "half": [
+      0.018,
+      0.009,
+      0.023
+    ]
+  },
+  "assumptions": [
+    "16 DS3225 servo envelopes, 60 g each; frames use aluminium density 2700 kg/m3.",
+    "Concept geometry: housing/lug envelopes, no validated fasteners, wiring or full joint sweep.",
+    "Masses, motor operating torque and contact friction require measurement.",
+    "No active yaw axis or actuated toe/heel; not a replica of PRIMER-V5 or a full UVC implementation."
+  ]
+}
